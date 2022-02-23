@@ -1,0 +1,778 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rome in her fruits being a sermon preached on the fifth of November, 1662, near to the standard in Cheapside : in the which sermon the author sets up his standard in opposition to the fruits and practices of Rome, and likewise answers in brief a late pamphlet, entitled Reasons why Roman Catholicks should not be pe[r]s[e]cuted / by Richard Carpenter.</title>
+            <author>Carpenter, Richard, d. 1670?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 90 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34540</idno>
+            <idno type="STC">Wing C626</idno>
+            <idno type="STC">ESTC R5572</idno>
+            <idno type="EEBO-CITATION">13687525</idno>
+            <idno type="OCLC">ocm 13687525</idno>
+            <idno type="VID">101374</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34540)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101374)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 841:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rome in her fruits being a sermon preached on the fifth of November, 1662, near to the standard in Cheapside : in the which sermon the author sets up his standard in opposition to the fruits and practices of Rome, and likewise answers in brief a late pamphlet, entitled Reasons why Roman Catholicks should not be pe[r]s[e]cuted / by Richard Carpenter.</title>
+                  <author>Carpenter, Richard, d. 1670?</author>
+               </titleStmt>
+               <extent>[4], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Ratcliffe, for H.R. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Reasons why Roman Catholicks should not be persecuted.</term>
+               <term>Bible. --  N.T. --  Matthew VII, 16 --  Sermons.</term>
+               <term>Catholics --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101374:1"/>
+            <pb facs="tcp:101374:1" rendition="simple:additions"/>
+            <p>ROME In Her FRUITS. Being a Sermon Preached on the fifth of <hi>November,</hi> 1662.</p>
+            <p>By RICHARD CARPENTER, Near to the Standard in <hi>Cheapſide.</hi> In the which Sermon the Author ſets up his Standard in oppoſition to the Fruits and practiſes of <hi>Rome:</hi> And likewiſe anſwers in brief a late Pamphlet, entitled, <hi>Reaſons why Roman-Catholicks ſhould not be perſecuted.</hi>
+            </p>
+            <q>
+               <bibl>Job 5. 12.</bibl>
+               <p>He diſappointeth the Devices of the Crafty, ſo that their hands cannot perform their enterprize.</p>
+               <bibl>
+                  <hi>Verſe 13,</hi>
+               </bibl>
+               <p>He taketh the wiſe in their own Craftineſſe, and the Counſel of the frowa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d is carried headlong.</p>
+            </q>
+            <q>
+               <bibl>S. Greg. Naz. in Jambicis:</bibl>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: <hi>There is a ſort of Men that speak Gold, but their Works and Fruits are not like-metal'd with their words.</hi>
+               </p>
+            </q>
+            <bibl>Greg. Magnus, ep. 101.</bibl>
+            <q>Aethiops in balneum niger intrat, niger egreditur: <hi>The Abyſſine or Aethiopian goes into the Ba<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h black, and black returns out of it.</hi>
+            </q>
+            <bibl>Petrus Chryſologus, Serm. 42.</bibl>
+            <q>Miſericordiam qui non praeſtat alteri, tollit ſibi: <hi>He that performs not a work of Mercy to another, takes away God's mercy from himſelf.</hi>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. Ratcliffe</hi> for <hi>H. R.</hi> at the ſign of the Three-Pigeons in St. <hi>Pauls</hi>-Church-Yard. 1663.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:101374:2"/>
+            <p>Imprimatur.</p>
+            <closer>
+               <dateline>Ex Aed. Sabaud. <date>Mart. 19. 1662.</date>
+               </dateline>
+               <signed>Geo. Stradling, S. T. P. Rev. in Christo Pat. D. Gilb. Epiſc. Lond. à Sac. Domestic.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:101374:2"/>
+            <head>To the Honourable Houſe of Commons aſſembled in Parliament.</head>
+            <p>
+               <seg rend="decorInit">M</seg>AY it pleaſe you who are <hi>legally</hi> placed in this high Orb of Honour, and have moſt happily driven away and ſcattered <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> according to <hi>Aquila,</hi> agreea<g ref="char:EOLhyphen"/>bly to the Septuagint <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> compliably with <hi>Philo</hi> the Jew, the <hi>Fly-ſwarms</hi> of Sects and Hereſies, which<note place="margin">Exod. 8. 21</note> 
+               <hi>offended,</hi> diverted, and exaſperated all ſincerely and modeſtly walking in <hi>ſtraight-pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hs,</hi> to give leave, becauſe even in <hi>natural Things,</hi> the higher the Sun mounts, the leſſe ſhadows it caſts; and in <hi>Artificials,</hi> the <hi>Pyramid</hi> aſcending higher and higher, is leſſer ſtill and leſſer, that I poor man amidſt the Acclamations of all<note place="margin">
+                  <hi>Lipſ.</hi> lib. 2. manuductionis ad Philoſophi<g ref="char:EOLhyphen"/>am Stoicam. Pſalm 133. 1</note> (though <hi>Lipſius</hi> is pleaſed to teach, Vir perfectè bonus non eſt niſi in Deſcriptione, <hi>There is no man perfectly good, otherwiſe than in Deſcription</hi>) good Proteſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nts, may give God praiſe for your moſt happy ſucceſſe, and joyfully ſing with the Royal Pro<g ref="char:EOLhyphen"/>phet; <hi>Behold, how good and how pleaſant it is, for Brethren to dwell together in Unity!</hi> For <hi>pleaſant,</hi> St. <hi>Hierom</hi> allow<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> decorum, <hi>comely,</hi> and the Hebrew word is <hi>nahhim, fair; Unity</hi> and <hi>order</hi> being <hi>fair</hi> and <hi>comely.</hi> The Sept. for <hi>in Unity,</hi> place <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>into one and the ſame Thing,</hi> ſignifying ſuch as attend to <hi>the ſame divine Worſhip;</hi> theſe being <hi>one Body and one Soul,</hi> than which there cannot be a greater and more near conjunction. This Compliance with his Majeſtie's and your Com<g ref="char:EOLhyphen"/>mands will make of every <hi>pious</hi> occurrence, in <hi>Syneſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> his Lan<g ref="char:EOLhyphen"/>guage,<note place="margin">
+                  <hi>Sy<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſ.</hi> lib. de providentiá.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>matter of Vertue.</hi> In <hi>Arabi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Happy,</hi> all plants and Herbs are end<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wed with a ſweet odour, exp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red from the felicity of the Soyl; and all <hi>regulated Wo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ks</hi> are fur<g ref="char:EOLhyphen"/>ther blanch't and candied by our <hi>obedience</hi> to our Superiou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, wherein we give again, and reſemble the <hi>paſſive Obediential power</hi> in creatu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es with reſpect unto God. To ſay a <hi>good Chri<g ref="char:EOLhyphen"/>ſtian;</hi> and the ſame <hi>diſobedien<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a moſt incon<g ref="char:EOLhyphen"/>gruous and falſe manner of speaking. It is my part and Of<g ref="char:EOLhyphen"/>fice to proclaim aloud, (and <hi>Seneca</hi> wiſely ſayes of Fools,<note place="margin">
+                  <hi>Se<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>c.</hi> in ep. ad D. Paulum.</note> Deus quandoque exore fatuorum effatur, <hi>The moſt wiſe God
+<pb facs="tcp:101374:3"/> ſpeaks ſometimes by the mouthes of Fools.</hi>) that this your <hi>Eccleſiaſtical Uniformity</hi> will indeed render you <hi>formidable</hi> yea <hi>terrible</hi> to the Church of <hi>Rome.</hi> And therefore our ſul<g ref="char:EOLhyphen"/>phureous and jealous-headed people here, have not the leaſt glimpſe of cauſe to <hi>fear</hi> Popery, Things running upon this by as: <hi>David</hi> paints them, <hi>There were they in great fear,</hi>
+               <note place="margin">Pſalm 53. 5</note> 
+               <hi>where no fear was;</hi> no cauſe of <hi>fear:</hi> The Vulgar Latin aſ<g ref="char:EOLhyphen"/>ſerts, Illic trepidaverunt timore, <hi>There they moved</hi> mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u Trepidationis, <hi>with the motion of trembling:</hi> In the plain<g ref="char:EOLhyphen"/>ing of which Verſe, <hi>Heſychius</hi> calls ſuch <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>perſons fearing vain noyſes and Spectres: Ariſtotle</hi> is<note place="margin">
+                  <hi>Heſych.</hi> in Sept.</note> an offerer here, averring, ſome to be ſo fearfully fearfull, that they <hi>fear</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the poor ſlies that fly buzzing</hi>
+               <note place="margin">
+                  <hi>Ariſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ot.</hi> in Po<g ref="char:EOLhyphen"/>lit. lib 7. cap. 1. Soph. in Elec<g ref="char:EOLhyphen"/>tra.</note> 
+               <hi>about them:</hi> And <hi>Sophocles</hi> applies himſelf, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>All things make a great noiſe in the ears of a timotous man.</hi> Go then, moſt noble Souls, and aeternitati pingite, bind the old Proteſtan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to you with an <hi>eternity</hi> of obligation. For the Pa<g ref="char:EOLhyphen"/>piſt, nobly and couragiouſly perſiſt to ſet him more and more aſide with the reſt or rather, as he is moſt dangerous, more than all the reſt. Where the Pope obtains the leaſt freedom, he is always crowd<g ref="char:EOLhyphen"/>ing for all: And I am ſure and ſecure, that generally Monks, Jeſuits, and Prieſts were his Majeſties perverſe Enemies, until they ſaw the Day down towards him: I moſt heartily forgive thoſe <hi>Iliads of evils</hi> (Wrongs and Lyes) wherewith they moſt horribly afflicted me, even when they were moſt gently treated here! Sunt Homicidae interfect res f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>atrum, &amp; ſunt Homicidae de ra<g ref="char:EOLhyphen"/>tractores<note place="margin">
+                  <hi>Clemens</hi> Ro<g ref="char:EOLhyphen"/>man. ep. 1. ad S. <hi>Jacob.</hi>
+               </note> eo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>um, <hi>There are Homicides who murther their Bre<g ref="char:EOLhyphen"/>thren, and there are homicides who detract from them:</hi> But I ſhall defend my Country, from their ſecret encroachings, and Inſolencies; which I beſt know. The Jeſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts have thundred in their Serm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns againſt you, yea, brought you upon the Stage after a moſt diſgraceful and ridiculous manner, in St. <hi>Omers, France, Spain, Italy.</hi> Indulge to us, we moſt humbly beſeech you, free<g ref="char:EOLhyphen"/>dom in as great a <hi>latitude</hi> for the ſurpeſſing of Popiſh <hi>Hypocriſy,</hi> as their Pope<g ref="char:punc">▪</g> according to his <hi>Politicks,</hi> gives it to them for the debaſing of Chriſtian Honeſty. Heroick Hearts, In God's Name <hi>proceed,</hi> and <hi>proſper.</hi>
+            </p>
+            <closer>
+               <signed>Your moſt obliged l'en-man, RICHARD CARPENTER.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:101374:3"/>
+            <head>ROME In Her Fruits.</head>
+            <epigraph>
+               <bibl>Matth. 7. 16.</bibl>
+               <q>Ye ſhall know them by their Fruits.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">W</seg>Ho can unriddle it? Why are we now met? What hath congeal'd us this day into a Congregation? But why do I now ſtart this unelemented Queſtion? Do not I well know this to be a Red<g ref="char:EOLhyphen"/>letter Day, even the anniverſary Day deſign'd for a ſolemn Day of Thankſ<g ref="char:EOLhyphen"/>giving, in relation to our wonderful Deliverance from the Gunpowder-Treaſon? Why now am I ſent back to School again. The Gunpowder-Trea<g ref="char:EOLhyphen"/>ſon is but a word, and ſuch a ſingle Cypher-word as ſig<g ref="char:EOLhyphen"/>nifies nothing. There was never any ſuch Thing as the Gunpowder-Treaſon, in Act or Intendment: ſo the learn<g ref="char:EOLhyphen"/>ed and <hi>pragmatical Papiſts</hi> have ſaid every where, long ago at <hi>Rome,</hi> at <hi>Paris</hi> lately, now at <hi>London.</hi> Yet I humbly
+<pb n="2" facs="tcp:101374:4"/> confeſſe, I am not ſo learned to think ſo. O <hi>Rome,</hi> ſhall yonder old and fatal Aſſertion gain ground upon thee forever; <hi>Rome cannot ſtand unleſſe under-ſhouldered with lyes?</hi> I, but in the mean time, howſoever you de<g ref="char:EOLhyphen"/>mean your ſelf in Earth-bounded and <hi>Sublunary matters;</hi> do not, I pray your <hi>Holineſſe,</hi> intrude upon Heaven, do not defile upwards. God's holy Truth, authorized by <hi>the Spirit of Truth,</hi> calls not for aſſiſtance to the Devil's pedling-School of Lying. Now, O thou <hi>imperious Wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re,</hi> bluſh a little if thou can'ſt. Here let my Soul dilate her ſelf: Shall I be damn'd to an Eternity of Torments by a moſt good and moſt juſt God, becauſe I cannot be<g ref="char:EOLhyphen"/>lieve eternal, invincible, and unmatchable Lyars, moſt maliciouſly and knowingly ſinning againſt the ſame God as he is the <hi>God of Truth?</hi> Beloved Countrymen, let me <hi>propheſie</hi> in a word or two: After a few yeares I mean, when our old Men here are ſilenc'd, and laid to ſleep in the Grave, the Truth of the Gunpowder-Treaſon, which as yet many thouſands now living amongſt us know from the Collections and <hi>Evidence of Senſe,</hi> ſhall be declared againſt ex ſacrâ Cathedrâ, <hi>out of the ſacred Chair</hi> at Rome, and holily ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ned Annulo Piſcatoris, <hi>with that holy Signet of his Holineſſe.</hi> Tell me now, Romaniſts, How ſhall we afterwards believe you in other things? We are inſtructed from your <hi>Civilians,</hi> Mendax ſemel, mendax ſempet praeſumitur. <hi>He that does</hi> glorioſè men<g ref="char:EOLhyphen"/>tiri, <hi>he that is once a notorious, magnificent, and glorious Lyar, is preſumed to be a Lyar alwayes.</hi> This will make us tremble at the Canonization of Saints, who are not Canoniz'd untill the Age be dead wherein they liv'd. <hi>Melchior Canus,</hi> thou learned Rabbin amongſt the Pa<g ref="char:EOLhyphen"/>piſts, come forth, ſtand in the mid'ſt of this Congre<g ref="char:EOLhyphen"/>gation, and ſpeak to the matter: Dolentèr dico po<g ref="char:EOLhyphen"/>tius<note place="margin">Melch. Can. in Locis Theol. <hi>lib. 11. c. 6.</hi>
+               </note> quàm Contumelioſè, multo a <hi>Laërtia,</hi> &amp; Ethnicis Hiſtoricis, Philoſophorum vitas ſeveriùs ſcriptas, quàm a Chriſtianis Vitas Sanctorum: <hi>Gr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>evingly I ſpeak it ra<g ref="char:EOLhyphen"/>ther than contumeliouſly, The lives of the old Philoſophers are more strictly and ſeverely written by</hi> Laërtius, <hi>and other heatheniſh Hiſtorians, than the lives of our Saints by Chri<g ref="char:EOLhyphen"/>ſtians.</hi>
+               <pb n="3" facs="tcp:101374:4"/> Romaniſts, There we have you. Quoniam in<g ref="char:EOLhyphen"/>cidit in foveam, obruatur: <hi>Becauſe he is fallen into a ditch of his own digging, throw durt upon him, bury im.</hi>
+            </p>
+            <p>Now the Curtain is drawn, and we plainly ſee who they are that forſake, in the purſuit of their <hi>evil Ends</hi> by <hi>indirect Means,</hi> Viam Regiam, <hi>the Princely way of</hi>
+               <note place="margin">Pſalm 40. 4.</note> 
+               <hi>Truth,</hi> and <hi>turn aſide to lyes.</hi> When water leaves its Channel, and <hi>turns aſide</hi> there to abide, it quickly ſtinks. The Vulgar Latin gives in the place of <hi>lyes,</hi> inſanias<note place="margin">God. Vulg.</note> falſas, <hi>falſe madneſſes:</hi> The Septuagint led the way, who render it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>lying madneſſes.</hi> St. <hi>Hierome</hi>
+               <note place="margin">Sept.</note> diggs to the <hi>Root</hi> in the Hebrew, and calls it Pompam Mendacij, <hi>the Pontifical Pomp, or profeſſion of a Lye:</hi> a<note place="margin">S. <hi>Hier.</hi>
+               </note> Church-Lye going in holy State.</p>
+            <p>Give me leave to draw forth before you, as upon a Table, a Triangle of Queſtions, which all caſt an eye upon holy Scripture. Firſt: who is Pater Mendacio<g ref="char:EOLhyphen"/>rum, <hi>the Father of Lyes,</hi> ſo declared by the true God, and the ſame the God of Truth? Ye all know him, and it would be ſuperfluous to name him. Now learn to know his Children: <hi>Ye ſhall</hi> truly <hi>know them by their Lyes.</hi> Secondly: who ſhall be excluded from <hi>the communion of Saints</hi> in Heaven, as the laſt and worſt of all the Rout? The beloved Diſciple as truly an<g ref="char:EOLhyphen"/>ſwers, <hi>whoſoover loveth and maketh a lye:</hi> cuſtomarily<note place="margin">Revel. 22. 25</note> 
+               <hi>maketh it,</hi> becauſe he <hi>loveth</hi> it. Thirdly, Why were not Pictures and Images entred of old into the Jewiſh Com<g ref="char:EOLhyphen"/>mon-wealth?<note place="margin">
+                  <hi>Philo</hi> Jud. <hi>lib. de Gigant.</hi>
+               </note> 
+               <hi>Philo</hi> the Jew hands the Reaſon to us: Picturam atque Statuariam a ſuâ Repub. rejecit <hi>Moy<g ref="char:EOLhyphen"/>ſes,</hi> quod veritatem mendaciis vitient, illudentes per oculos animabus facilibus: <hi>The Arts of Picture and Statuary, Moyſes, inspired by God, rejected from his Com<g ref="char:EOLhyphen"/>mon-wealth, becauſe they vitiate, that is, deflowr Truth with lyes, deluding eaſie Souls by the eyes. Moſes,</hi> God's Vice-gerent, was greatly afraid even of dumb lyes, <hi>that have mouthes and ſpeak not;</hi> of lyes in their very <hi>firſt ineaments</hi> of colour, and Figure.</p>
+            <pb n="4" facs="tcp:101374:5"/>
+            <p>Concerning the ſeventy Cells built in obſervance to the commands of <hi>Pt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>loncy,</hi> whereas St. <hi>Juſtine</hi> gives to every Elder a Cell, St. <hi>Epiphanius</hi> one to every two, St. <hi>Hierom,</hi> to promote his Latin Edition, joines them altogether, and profeſſes, Neſcio quis primus Author ſep<g ref="char:EOLhyphen"/>tuaginta<note place="margin">S. <hi>Hierom.</hi> Praefat. in Pentateuchum.</note> Cellulas Alexandriae mendacio ſuo extruxerit: <hi>I know not who as the firſt Author built ſeventy Cells at</hi> Alexandria <hi>with a Lye.</hi> But I know the perſons that have <hi>built ſeventy times-ſeven</hi> Babel-Towers in the Minds of Men <hi>with their Lyes.</hi> I moſt humbly call God to witneſſe: I have been theſe forty years acquainted with Popiſh-Prieſts, of the which notwithſtanding I never knew one (no verily not a little one) whom either in his words or practices I could reaſonably difference from a theatrical Mountebank, or a nimble-finger'd Jugler.</p>
+            <p>Hitherto we have preambled. Now we ſtate our Text: <hi>Ye ſhall know them by their fruits.</hi> It ſeems to be reſiſted (ex obliquo, <hi>obliquely</hi>) by the firſt words of the Chapter: <hi>Judge not, that ye be not judged.</hi> Howſo<g ref="char:EOLhyphen"/>ever, <hi>Know</hi> we may, when Things are <hi>evidently demon<g ref="char:EOLhyphen"/>ſtrated by their effects</hi> or <hi>Fruits.</hi> Scientia, ſaith <hi>Ari<g ref="char:EOLhyphen"/>ſtotle,</hi> eſt ejus, cujus eſt Demonſtratio: <hi>we know a Thing when it is evident to us by Demonſtration. Know</hi> we may: we may not <hi>judge.</hi> Knowledge draws life from <hi>evidence,</hi>
+               <note place="margin">D. <hi>Tho.</hi> p 1. q. 1. art. 6. ad 3.</note> 
+               <hi>Aquinas</hi> ſpeaks, cùm judicium ad ſapientiam pertineat, <hi>VVhenas Judgement pertains to VViſdom.</hi> Does it ſo? Then as we <hi>know,</hi> we may <hi>judge</hi> alſo, if we <hi>judge</hi> ac<g ref="char:EOLhyphen"/>cording to the Dictates of <hi>VViſdom.</hi> To Chriſt the Son of God, to whom <hi>VViſdom</hi> is ſignally attributed, <hi>Judge<g ref="char:EOLhyphen"/>ment</hi> is likewiſe aſſigned. There are therefore two ſorts of <hi>Judgement,</hi> Judicium rectum, Judicium temerarium, <hi>Right</hi> (otherwiſe call'd <hi>wiſe) Judgement,</hi> and <hi>raſh Judge<g ref="char:EOLhyphen"/>ment. Judge not,</hi> that is, not <hi>raſhly. Raſh Judgement</hi> is, cùm Judicium fit ex incertis, &amp; incognitis, <hi>when judge<g ref="char:EOLhyphen"/>ment is given concerning Things uncertain, and unknown. Right Judgement</hi> is, cùm Judicium fit ex notis, &amp; evi<g ref="char:EOLhyphen"/>dentibus, <hi>when judgement is given concerning Things known, and evident. Knowledge</hi> and <hi>Right judgement</hi> will
+<pb n="5" facs="tcp:101374:5"/> ſtand and ſtable together. Yea, the one neceſſarily <hi>ſup<g ref="char:EOLhyphen"/>poſes</hi> the other, and this other <hi>infers</hi> that one again. <hi>Right judgement ſuppoſes Knowledge,</hi> and, <hi>Knowledge in<g ref="char:EOLhyphen"/>fers Right Judgement.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Searcher</hi> and <hi>Know<g ref="char:EOLhyphen"/>er of the Heart</hi> is one of God's proper Titles: He only <hi>knows</hi> the Heart in the Heart: but we <hi>know</hi> and <hi>judge</hi> o<g ref="char:EOLhyphen"/>ther mens Hearts when <hi>out of the abundance of the Heart the mouth speak<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th.</hi> Excellently <hi>Euariſtus</hi> writing to the<note place="margin">
+                  <hi>Evar.</hi> ep. 2: ad Epiſt. Aegypti.</note> Biſhops of <hi>Egypt,</hi> and alledged by <hi>Gratianus:</hi> Deus om<g ref="char:EOLhyphen"/>nipotens, ut nos a praecipitatae ſententiae prolatione com<g ref="char:EOLhyphen"/>pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ceret, cum omnia nuda &amp; aperta ſint oculis ejus, mala Sodomae noluit audica judicare, priuſquam mani<g ref="char:EOLhyphen"/>feſte agnoſceret quae dicebantur: <hi>The omnipotent Ged that he might retract us from the precipice of raſh Judgement, although all things are naked and open to his eyes, yet would not judge the ſins of</hi> Sodom <hi>upon hearſay: he would ma<g ref="char:EOLhyphen"/>nifeſtly ſee the truth of the matter in the Theatre of pra<g ref="char:EOLhyphen"/>ctice, and expreſſe a concluſion from the ſecret Inwards of Experience.</hi> Not that God acquires Knowledge <hi>expe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>mentally,</hi> or otherwayes; Experience being a knowledge gathered from <hi>par<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iculars:</hi> but, for our learning. Unde ipſe ait, ſaith my Author, Deſcendam, &amp; C. <hi>The Lord ſaid, becauſe the Cry of</hi> Sodom <hi>and</hi> Gomorrah <hi>was great,</hi> ver. 21. <hi>I will go down now and ſee whether they have done altogether acco<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ding to the cry of it, which is come un<g ref="char:EOLhyphen"/>to</hi>
+               <note place="margin">Gen. 18. 20<g ref="char:punc">▪</g>
+               </note> 
+               <hi>me, and of not, I will know.</hi> God ſeems not to <hi>know</hi> what he <hi>knows,</hi> that we may <hi>know</hi> what we <hi>know</hi> not: <hi>Knowing</hi> and <hi>ſeeing,</hi> he went down to <hi>ſee</hi> and <hi>know;</hi> that we may proceed from <hi>Evidence</hi> to <hi>Judgement</hi>
+            </p>
+            <p>Our <hi>Knowledge</hi> and <hi>Judgement</hi> are grounded in this particular (and the like may be ſaid hereafter concern<g ref="char:EOLhyphen"/>ing the <hi>Judgement</hi> and <hi>Knowledge</hi> of our Children, and of their children, and their childrens children to the end of the World) upon ſuch <hi>Evidence</hi> as holy Scripture is abundantly ſatisfied with, yea ſuch as, according to the level of <hi>Right Reaſon</hi> proportion'd to the Word of God, falls open <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>into a Quad<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ate,</hi> the Figure of <hi>New Jeruſalem,</hi> in quadro ſitâ, <hi>fou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-ſquar'd.</hi> Which <hi>Know<g ref="char:EOLhyphen"/>ledge</hi> and <hi>Judgement</hi> if we or our children to the laſt man,
+<pb n="6" facs="tcp:101374:6"/> ſhould in a black day wave or lay aſide, God our moſt gracious Father, Benefactor, and <hi>true Protector,</hi> would be moſt unworthily defrauded of his Worſhip and Glo<g ref="char:EOLhyphen"/>ry, moſt due to him, as performable by publick Acknow<g ref="char:EOLhyphen"/>ledgement<note place="margin">Pſalm 44. 1</note> and Thankſgiving. <hi>VVe have heard with our ears, O God, our Fathers have told us, what work thou didst in their days, in the times of old,</hi> ver. 2. <hi>How thou didſt drive out the Heathen with thy hand, and plantedſt them, how thou didſt afflict the people, and caſt them out.</hi> Let us continue the Song, that God may continue his Deliverances: <hi>How thou didst</hi> deliver our moſt wiſe and moſt learned <hi>James</hi> King of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> and all his Nobles, and People, from the moſt horrible and moſt dereſtable Uſurpation of the Pa<g ref="char:EOLhyphen"/>piſts attempted by a moſt helliſh Powder-plot, and <hi>how</hi> the Traitours were caught by the very covert mention of their own Snare, and <hi>how thou didſt afflict</hi> them with death, <hi>and caſt them out;</hi> yea <hi>how thou didſt</hi> continue <hi>the Go<g ref="char:EOLhyphen"/>vernment upon his Shoulder:</hi> which we moſt heartily and moſt humbly deſire thee, notwithſtanding all Popiſh and Popiſh-faſhion'd Machinations, to continue likewiſe up<g ref="char:EOLhyphen"/>on his poſterity for ever. Amen.</p>
+            <p>
+               <hi>Know</hi> then we may, yea <hi>by fruits</hi> when they are <hi>evi<g ref="char:EOLhyphen"/>dent</hi> (as we ſee they are in our caſe), and from <hi>Know<g ref="char:EOLhyphen"/>ledge</hi> we may paſſe to <hi>Judgement.</hi> Now let us enquire further concerning theſe <hi>fruits:</hi> leſt the Papiſts ſhould imitate that impure perſon, who called his Whores by the name of the <hi>Muſes,</hi> or be like the popiſh Painter, who preferred the picture of his Iewd Miſtreſs, under the name of the <hi>bleſſed Virgin,</hi> that it might be wor<g ref="char:EOLhyphen"/>ſhipped.</p>
+            <p>Firſt: Theſe <hi>fruits</hi> have no correſpondence or <hi>ana<g ref="char:EOLhyphen"/>logy</hi> with Chriſt, the Bridegroom of the Church, and of Souls, as he is deſcribed in his perſon, by his <hi>Eyes;</hi> in his ordinary practice, by his paſture or feeding; in his Office of Mediatorſhip, by his Name; in his extra<g ref="char:EOLhyphen"/>ordinary <hi>fruits,</hi> by his <hi>Obedience unto death; His eyes</hi>
+               <note place="margin">Cant. 5. 12</note> 
+               <hi>are as the eyes of Doves by the Rivers of waters.</hi> The Dove abiding with pleaſure <hi>by the waters,</hi> diſcovers the
+<pb n="7" facs="tcp:101374:6"/> Birds of prey in the Ayr by their ſhadows in <hi>the wa<g ref="char:EOLhyphen"/>ters,</hi> and then preſently wings it in the Ayr for her ſecurity (there's all ſhe does); ſhadowing innocent Chriſtians, that in the Sallies of perſecution ſhould <hi>flye</hi>
+               <note place="margin">Cant. 6. 3</note> 
+               <hi>from City to City. He ſeedeth among the lillies. The lil<g ref="char:EOLhyphen"/>lies</hi> are not blood-colour'd, but white, pure, and lift<g ref="char:EOLhyphen"/>ed up by a long ſtalk from the pollutions of the Ground or <hi>Earth which open'd her mouth to receive the blood of</hi> Cain's <hi>brother</hi> Abel. His Names were Jeſus, <hi>the Saviour,</hi> and <hi>the Lamb of God;</hi> in oppoſition to the <hi>De<g ref="char:EOLhyphen"/>ſtroyer</hi> and his Office: Our Lambs are innocent, but <hi>the Lamb of God</hi> was innocent, as God, ſuperlatively in<g ref="char:EOLhyphen"/>nocent. As to the tranſcendent <hi>fruits</hi> of his Obedi<g ref="char:EOLhyphen"/>ence:<note place="margin">Phil. 2. 8</note> 
+               <hi>he humbled himſelf, and became obedient unto death, even the death of the Croſſe.</hi> St. <hi>Gregory</hi> ſpeaks applia<g ref="char:EOLhyphen"/>bly:<note place="margin">S. <hi>Greg.</hi> lib. 35. Moralium in <hi>Job,</hi> cap. 12.</note> Obedientia victimis praeponitur; quia per victimas aliena caro, per obedientiam vero voluntas propria ma<g ref="char:EOLhyphen"/>ctatur: <hi>Obedience is preferred before Sacrifice; becauſe in Sacrifice other Things, in obedience our own wills and ſelves are kill<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d;</hi> that is, mortified, and offered to God. <hi>He humbled himſelf,</hi> his whole ſelf, <hi>and became obedient unto death.</hi> Death, ſaith <hi>Franzius,</hi> like the Lion, tears all.<note place="margin">
+                  <hi>Franz.</hi> in Leone.</note>
+            </p>
+            <p>Secondly, Theſe bloody <hi>fruits</hi> have no conſangui<g ref="char:EOLhyphen"/>nity with the Spouſe of Chriſt, which is the Church, and the Righteous Soul. The Church may be conſider'd in her Name, deciphering her gracious Nature; in her different <hi>States, calme,</hi> and <hi>troubled;</hi> and in her perpe<g ref="char:EOLhyphen"/>tual practice. <hi>Open to me,</hi> ſaith Chriſt to his Church, <hi>my</hi>
+               <note place="margin">Cant. 5. 2</note> 
+               <hi>ſiſter, my love, my dove, my undefiled.</hi> She is Chriſt's <hi>Siſter,</hi> like him in Nature, and in deportment; his <hi>Love,</hi> his beloved <hi>Siſter,</hi> becauſe like him, and likeneſſe cauſes liking; his <hi>Dove,</hi> becauſe harmleſſe as the <hi>Dove,</hi> and like him in his dear Innocency; his <hi>
+                  <g ref="char:V">Ʋ</g>ndefiled,</hi> be<g ref="char:EOLhyphen"/>cauſe his <hi>Dove,</hi> the <hi>Dove</hi> not being <hi>defiled</hi> with blood. The Council of <hi>Aix</hi> declared: Meminiſſe oportet,<note place="margin">
+                  <hi>Concil.</hi> Aquiſ<g ref="char:EOLhyphen"/>granenſe, Can. 134.</note> quia Columba eſt in divinis Scripturis Eccleſia appellata, quae non unguibus lacerat, ſed alis piè percutit: <hi>It be<g ref="char:EOLhyphen"/>hoveth us all to remember, that the Church is ſtiled in holy Scripture, an innocent Dove for her Gentleneſſe, which
+<pb n="8" facs="tcp:101374:7"/> tears not with Talents, but piouſly ſtrikes with her wings.</hi> In Statu Pacato; <hi>in her State of peace</hi> and proſperity, the Church is, as St. <hi>Cyprian</hi> pencils her, in operibus<note place="margin">S. <hi>Cyp.</hi> ep. 4.</note> Fratrum Candida, <hi>white in the works of the Brethren:</hi> theſe are the <hi>lilies among which,</hi> Chriſt <hi>feedeth:</hi> In Statu perturbato, <hi>in her ſtate of</hi> Adverſity and <hi>perſecution,</hi> She is, as the ſame Father addeth in the ſame place, in Martyrum cruore purpurea, <hi>purple in the blood of her Martyrs:</hi> theſe are her <hi>Rod-Roſes,</hi> and her truly-Chri<g ref="char:EOLhyphen"/>ſtian<note place="margin">S <hi>Cypr.</hi> ibidem. Cant. 5. 10</note> Cardinals: ſhe is, as her <hi>Beloved, white and ruddy.</hi> It is again appoſitely obſerved by St. <hi>Cyprian:</hi> Ut ap<g ref="char:EOLhyphen"/>pareret, Innocentes eſſe qui propter Chriſtum necantur, Infantia innocens ob nomen ejus occiſa eſt: <hi>That it might appear, thoſe who dye for Chriſt ſhould be harmleſſe,</hi>
+               <note place="margin">S. <hi>Cypr.</hi> ep. 24.</note> 
+               <hi>his very firſt Martyrs were innocent children baptized,</hi> Bap<g ref="char:EOLhyphen"/>tiſmo ſanguinis, <hi>with the baptiſm of their own blood:</hi> and theſe were Primitiae Martyrum, <hi>the firſt fruits of the firſt Martyrs;</hi> and they were early <hi>fruits.</hi> For thoſe whom the Caſuiſts call Adultos, <hi>grown perſons,</hi> Five <hi>con<g ref="char:EOLhyphen"/>ditions</hi> muſt concurre to the <hi>determining</hi> of a Martyr, whereof a chief-one is: That he who is martyred, muſt not reſiſt his perfecutors in <hi>Act</hi> or <hi>Deſirt:</hi> And there<g ref="char:EOLhyphen"/>fore, even Chriſtian Souldiers fighting in Gods cauſe, are not Martyrs, though killed, becauſe they do not imitate <hi>the Prince of Martyrs,</hi> who ſuffered Death with<g ref="char:EOLhyphen"/>out reſiſtance. The practice of the moſt pure and pri<g ref="char:EOLhyphen"/>mitive Church, is alſo recounted and juſtified by this our primitive Doctour St. <hi>Cyprian:</hi> Nos laeſos divina ultio defendet. Inde eſt, quod nemo noſtrûm ſe ad<g ref="char:EOLhyphen"/>verſus inju<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tam violentiam, quamvis nimius, &amp; copio<g ref="char:EOLhyphen"/>ſus ſit noſter populus, ulciſcatur: St. <hi>Cyprian</hi> here, layes <hi>Bellarmine</hi> with all his long Train of Scarlet, flat on<note place="margin">S. <hi>Cypr.</hi> ad De<g ref="char:EOLhyphen"/>metriad.</note> his back. <hi>God will revenge our wrongs: and therefore, not one of us doth lift up his hand againſt unjuſt violence, although our people be numerous, and our ſtrength great.</hi>
+            </p>
+            <p>Thirdly, Theſe Angelical Miſſioners, as they pha<g ref="char:EOLhyphen"/>riſaically ſtile themſelves, are not in theſe <hi>their fruits,</hi> like the Angels, Firſt: Becauſe all the apparitions of An<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>els appearing like men in the Old Teſtament, lean<g ref="char:EOLhyphen"/>ed
+<pb n="9" facs="tcp:101374:7"/> forwards with a ſpecial reference of ſimilitude to<g ref="char:EOLhyphen"/>wards Chriſt. The Angelical Doctor faſtens it: Omnes<note place="margin">D. <hi>Tho</hi> p. 1. q. 51. art. 2. ad 1.</note> enim Apparitiones veteris Teſtamenti ad i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lam appariti<g ref="char:EOLhyphen"/>onem ordina<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ae ſucrunt, q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>â filius Dei apparuit in carne: <hi>For all the Apparitions of the old Teſtament were dire<g ref="char:EOLhyphen"/>cted and ordered towards that pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncipal, and moſt excellent Apparition, wherein the Son of God appeared in the Fleſh.</hi> There <hi>their fruits</hi> bear no date of e<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ction to Chriſt, or of ſemblance with him. Secondly, Becauſe the An<g ref="char:EOLhyphen"/>gels never aſſame <hi>Bodies of Fire.</hi> (If a Spirit attempts to make a <hi>compact,</hi> he is a Devil; if he takes a <hi>Body of fire,</hi> he is a Devil: they are two moſt <hi>diſtinctive Marks of a Diabolical Apparition</hi>) The ſame Angel of <hi>Aquine</hi> ſuppe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>itates the Reaſon, quia comburerent ea<note place="margin">D. <hi>Tho.</hi> p. 1. q. 51. art. 2. arg. 3. S. <hi>Cyr. Alex.</hi> in cap. 1. <hi>Zachar.</hi>
+               </note> quae contingerent; <hi>they would then ſet on fire all they ſhould touch,</hi> as theſe ſalt-peter <hi>fruits</hi> do. Thirdly, Be<g ref="char:EOLhyphen"/>cauſe Angels in holy Scripture are alwayes repreſented to us, as St. <hi>Cyril</hi> of Alexandria takes notice, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſtantes, <hi>ſtanding, to divulge and evidence their prompt<g ref="char:EOLhyphen"/>neſſe, readineſſe, and erected mind in their bringing all to the commands of God to execution:</hi> Theſe Gunpowder and ſulphureous <hi>fruits</hi> act for Hell and the Devil. Fourthly, Becauſe Angeli illum gradum tenent in ſub<g ref="char:EOLhyphen"/>ſtantiis ſpiritualibus, quem corpora coeleſtia in ſubſtan<g ref="char:EOLhyphen"/>tiis<note place="margin">D. <hi>Tho.</hi> p. 1. q. 58. art. 3. in <hi>Corp.</hi>
+               </note> corporeis: <hi>The Angels hold that degree in ſpiritual ſubſtances, which the heavenly Bodies have and hold in the ſubſtances that are corporeal. The heavenly Bodies</hi> are ſublime, placed above the Moon, and uncorrupt: Our corrupt and evil Angels dig their way to Hell under Ground.</p>
+            <p>Now whereas they are not like in theſe <hi>their fruits</hi> to Chriſt, nor to his Church, nor laſtly to the good Angels; to whom at length (I pray) are they like? To the <hi>King of the</hi> ſtrange <hi>Locusts</hi> in the Reve<g ref="char:EOLhyphen"/>lation. <hi>And they had a King over them, which is the</hi>
+               <note place="margin">Revel. 9. 11</note> 
+               <hi>angel of the bottomleſſe pit, whoſe name in the Hebrew tongue is</hi> Abaddon, <hi>but in the Greek tongue hath his name</hi> Apollyon. The Greek <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, is latin'd by the Vul<g ref="char:EOLhyphen"/>gar, exterminans, <hi>exterminating: Eraſmus</hi> allows for it<note place="margin">Edit. Vulg. <hi>Eraſ.</hi>
+               </note>
+               <pb n="10" facs="tcp:101374:8"/> perdens, <hi>deſtroying:</hi> According to the letter in the He<g ref="char:EOLhyphen"/>brew word <hi>Abaddon,</hi> the Reſult is Perditio, Deſtructio, <hi>Perdition, Deſtruction:</hi> the meaning is, <hi>a Deſtroyer</hi> ſo greatly <hi>deſtroying,</hi> that he ſeems to be <hi>Deſtruction</hi> it ſelf. And the Greek hath expreſly <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the Deſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oyer, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, eminently destroying:</hi> that is, his <hi>Eminence</hi> (which Title Pope <hi>
+                  <g ref="char:V">Ʋ</g>rban</hi> the eight conferr'd upon his Cardinals, who before were but <hi>Illuſtrious</hi>) that is, I ſay, his <hi>Eminence the Angel of the bottomleſſe Pit,</hi> whoſe whole and proper work is to <hi>deſtroy.</hi> They <hi>do the works of their Father the Devil:</hi> His <hi>children</hi> they are, and him only they are like.</p>
+            <p>And becauſe we have retraited them back to their firſt Parentage, and originally derived them from the Devil, let us make further inquiſition into theſe <hi>their</hi> devilliſh <hi>fruits,</hi> and better know them by theſe. Firſt, They would have <hi>destroyed</hi> the moſt knowing, and moſt peaceable and <hi>Solomon</hi>-ſpirited King upon Earth, toge<g ref="char:EOLhyphen"/>ther with all the Royal Family, <hi>Root and Branch,</hi> by a ſudden helliſh Blow given from the ſad inventions of an idle, yet over-buſie Fryer; and all this, without the leaſt preadvertiſement of danger. Go, Turn over all the Annals of <hi>Indian</hi> Man-eaters, Turks, Barbarians, Jewes; the like was never ſtoried of before: and yet, this was the plot of our underſtanding occidental and Sun-ſet Chriſtians, preſumptuouſly calling themſelves <hi>Catholicks.</hi> Afterwards indeed, horrid miſchiefs<g ref="char:punc">▪</g> have ſucceeded, but ſuch as theſe had long taught by their foregoing Examples. By the way: They beſpatter me, as if when I flew beyond the Seas; threatned and per<g ref="char:EOLhyphen"/>ſecuted by that blazing Meteor of a Supream power, or Ghoſt of Pope <hi>Hildebrand, Cromwell,</hi> I complied with them to ſecure my own Ends. Truly, whatſoever of Juggle they found in me, their former Jugglings with me taught me: I had been their Prentiſe. And I now beſt diſcover their monſtrous Devices, becauſe I know their Trade, know it <hi>ſpeculatively,</hi> not <hi>practically.</hi> I return. This Powder-Blow would not have only <hi>de<g ref="char:EOLhyphen"/>stroyed the ſtrong foundations</hi> of the Parliament-Houſe
+<pb n="11" facs="tcp:101374:8"/> and the Cities of <hi>Weſtminſter</hi> and <hi>London,</hi> but alſo the whole <hi>foundation</hi> of three Kingdoms. For Kings are Scri<g ref="char:EOLhyphen"/>pture-call'd the <hi>ſtrong foundations of the Earth.</hi> Anſwe<g ref="char:EOLhyphen"/>rably,<note place="margin">Micah 6. 2</note> a King is named in the Greek Language, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, quòd ſit <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, populi Baſis, <hi>becauſe he is the baſis and foundation of the peopl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> And the Hebrew word <hi>A<g ref="char:EOLhyphen"/>don,</hi> from whence comes <hi>Adonai,</hi> ſignifying Dominus, <hi>Lord,</hi> is borrowed from <hi>Eden,</hi> a <hi>baſis</hi> or <hi>foundation.</hi> And if the <hi>foundation</hi> be ſubverted, all is Ruinated. Father <hi>Tompſon</hi> the Jeſuit, our Ghoſtly Father at <hi>Rome,</hi> when he often told us Schollars there, that his ſhirt had been many times wet in his digging under the Parliament-Houſe upon this horrible account, intimated, that their intention was to bring up the <hi>foundation</hi> and all with a Powder. Kings agreeably to an old Stile, write, Nos, <hi>We?</hi> becauſe they repreſent their whole people, and be<g ref="char:EOLhyphen"/>cauſe the well-being of their whole people reſides and lives in them. If the Baſilical Vein be cut, the whole Body of the people mortally bleeds. Principes &amp; Prae<g ref="char:EOLhyphen"/>lati, it is the Doctrine of <hi>Aquinas,</hi> honorantur, etiamſi ſint mali, in quantum gerunt perſonam Dei &amp; Commu<g ref="char:EOLhyphen"/>nitatis, cui praeficiuntur: <hi>Princes and Prelates are ho<g ref="char:EOLhyphen"/>nour'd</hi>
+               <note place="margin">D. <hi>Tho.</hi> 2. 2 dae. q. 63. art. 3. in <hi>Corp.</hi>
+               </note> 
+               <hi>although they be evil, becauſe they bear the perſon of God, and of the Community, over whom they are ſet.</hi> No Earthly power nor Action can diveſt a King of this <hi>Ho<g ref="char:EOLhyphen"/>nour,</hi> that he viſibly <hi>bears the perſon</hi> of the inviſible God as God is the ſupream Lord. A Biſhop <hi>directly,</hi> and <hi>immediately</hi> repreſents God in his <hi>Goodneſſe, Holi<g ref="char:EOLhyphen"/>neſſe, Gentleneſſe, Piety:</hi> a King in his <hi>Greatneſſe, Majeſty</hi> and <hi>Supremacy of executive power:</hi> the one as a <hi>King,</hi> the other as a <hi>Biſhop.</hi>
+            </p>
+            <p>Secondly, They would have deſtroyed all the flouriſh<g ref="char:EOLhyphen"/>ing Nobility of this Nation, many hundreds of the chief Gentry, many thouſands of neighbouring people, where<g ref="char:EOLhyphen"/>of a main part were aged perſons, women and innocent children; yea and children in the Womb, not baptized, and therefore according to them not capable of Glory; and a great part laden with ſin unrepented of. It ſeldom happens, even in the moſt bloody Warres, as <hi>Vegetius</hi>
+               <pb n="12" facs="tcp:101374:9"/> notes, that old Men, old Women, young Maids, and lit<g ref="char:EOLhyphen"/>tle<note place="margin">
+                  <hi>Veget.</hi> de Re<g ref="char:EOLunhyphen"/>militari, lib. 3.</note> children are not ſpar'd. And could ye not be con<g ref="char:EOLhyphen"/>tented, (O ye cruel-ones after the manner of <hi>Italy,</hi> cruel beyond the Grave and beyond Temporalities) to kill Bo<g ref="char:EOLhyphen"/>dies, but Souls muſt be kill'd too? O be mercifull now, if ye have relenting Hearts, if ye have any reflection up<g ref="char:EOLhyphen"/>on <hi>Antioch</hi> or <hi>Jeruſalem,</hi> to theſe poor people on the brink and edge of horrible Danger. <hi>He that hath a boun<g ref="char:EOLhyphen"/>tifull</hi>
+               <note place="margin">Prov. 22. 9 Vulgatus In<g ref="char:EOLhyphen"/>terpres.</note> 
+               <hi>Eye, ſhall be bleſſed.</hi> The vulgar Latin advances, Qui pronus eſt ad Miſericordiam, benedic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tur: <hi>He that is prone to mercy, ſhall be bleſſed.</hi> The Hebrew deales forth <hi>primarily,</hi> Qui bonus eſt oculo, <hi>He that is good of Eye.</hi>
+               <note place="margin">Text. <hi>Hebr.</hi>
+               </note> And the Chaldee follows in the foot-ſtep, Qui bonum oculum habet, <hi>He that hath a good Eye.</hi> Then we have a<note place="margin">
+                  <hi>Chald.</hi> Paraph.</note> 
+               <hi>merciful eye,</hi> when we look <hi>mercifully</hi> upon thoſe who are in miſery, or in the confines of it. <hi>Zanchius</hi> is our Oratour: Indè dicta eſt Miſericordia, quod Cordi no<g ref="char:EOLhyphen"/>bis<note place="margin">
+                  <hi>Zanch.</hi> de na<g ref="char:EOLhyphen"/>turà Dei, lib. 4. cap. 4. quaeſt. 1.</note> ſit aliena Miſeria: <hi>Thence mercy was by the Latins call'd</hi> Miſericordia; <hi>becauſe by mercy, we lay cloſe to our Hearts anothers Miſery.</hi> But who do I require a <hi>mercifull eye,</hi> or <hi>the eyes of Doves</hi> in Wolfes, Tygers, Rocks; worſe: Men in whom the Nature of Man is joyned with the Nature of Devils, as ſome report of Antichriſt?</p>
+            <p>Thirdly: (I ſpeak now of a Thing, which, I believe none of our Preachers ever thought of untill now:) They would have <hi>destroyed</hi> their own God, many times over: that is, burned his <hi>real Body,</hi> as they ſpeak, in many places at once.</p>
+            <p>In this moſt abominable Plot, there was neither good <hi>order</hi> not <hi>meaſure,</hi> and yet the match was meaſur'd, ordred and appointed to deliver his mournfull and matchleſſe arrant to the powder about the hour of ten or eleven in the morning: becauſe it was ſuppoſed, that then the Par<g ref="char:EOLhyphen"/>liament-Houſe would be full and compleat. Theſe are the hours, wherein commonly their Prieſts run over their Maſſes, as the blind Be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ga<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his prayers in the Spaniſh pamphlet: whereof ſome, but few were ingulfed in, or knew the plot. This was perfectly known to the plot<g ref="char:EOLhyphen"/>ters: as likewiſe, that hundreds of Prieſts were then ſcat<g ref="char:EOLhyphen"/>tered
+<pb n="13" facs="tcp:101374:9"/> in and about <hi>Weſtminſter.</hi> For they ſeat themſelves here ordinarily, in great nu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>b<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>; near to Courts, Par<g ref="char:EOLhyphen"/>liament-Houſes, Innes of Court, Schoole; and Univer<g ref="char:EOLhyphen"/>ſities, as watching for their Game. Therefore they had an <hi>intentional, wilfull,</hi> and <hi>explicite Deſigne</hi> to blow up their own God with their King. Here a moſt excellent Spirit of <hi>Elixir</hi> exerts it ſelf: He tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Reb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ls againſt his King, Rebels againſt his God: He that would deſtroy his King, would if he could, deſtroy his God ſtan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing in his way: ſo neer, ſo twiſted and united are the intereſts and affairs of God and a King; by reaſon that a King is in his Office ſo like to God, and ſo neerly <hi>ſubordinate</hi> to him. But hear me, ye that work in the Cellar there, I beſeech you: Remember the Text, Hoc eſt corpus meum, <hi>This is my Body:</hi> Hic eſt ſanguis meus, <hi>This is my Blood:</hi> And forget not your own Gloſſes: After the pronuntiation of the laſt ſyllable by the Prieſt in the words, <hi>This is my Body;</hi> there follows nothing but the Body of Chriſt ex vi verborum, <hi>by force of the words,</hi> but per Concomitantiam, <hi>by concomitance,</hi> there follows the Blood of Chriſt, the Soul of Chriſt, alſo the Son of God the ſecond perſon in the Trinity, yea the whole Divinity: likewiſe after the laſt ſyllable in the pronunciation of the words, <hi>This is my Blood,</hi> there follows nothing but the blood of Chriſt<g ref="char:punc">▪</g> 
+               <hi>by the force of the words,</hi> but <hi>by conco<g ref="char:EOLhyphen"/>mit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce,</hi> there follows the Body of Chriſt, the Soul of Chriſt; alſo the ſon of God the ſecond perſon in the Tri<g ref="char:EOLhyphen"/>nity, yea the whole Divinity. Ye would have put fire to and blown up the Body of Chriſt, the Blood of Chriſt, and if it had fallen <hi>within your Sphere,</hi> the ſoul of Chriſt, al<g ref="char:EOLhyphen"/>ſo the ſon of God, the ſecond perſon in the Trinity, yea the whole Divini<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y; and this, twice whereſoever the blow ſhould have found the Prieſt after the <hi>conſecr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion<g ref="char:punc">▪</g>
+               </hi> and of<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ner after the diviſion of the Hoſt. Was ever any Apparition from Hell, ſo frightfull and ſo full fraught with horrour, as the meer ayrie Relation of this moſt damnable Fire-work? Do we dream, or are we awake? Can this be true Veritate Rei, <hi>in the truth of the Thing,</hi> or Fact? In like manner, Beloved, They would have
+<pb n="14" facs="tcp:101374:10"/> 
+               <hi>destroyed</hi> their King ex vi verborum, <hi>by the force of their immediate Purpoſes, Decrees, Deſignes;</hi> but they would have <hi>d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtroyed</hi> their God, if they could, per Concomi<g ref="char:EOLhyphen"/>tantiam, <hi>by concomitance:</hi> the Rights of God and of the King, being involved moſt rightly together. God is God per eſſentiam, <hi>by eſſence,</hi> and the King is God per ſimi<g ref="char:EOLhyphen"/>litudinem, <hi>by Similitude and Repreſentation: I have ſaid,</hi>
+               <note place="margin">Iſalm 82. 6</note> 
+               <hi>Ye are Gods.</hi> There are Kings, and there are Viceroyes: There is a God, and there are Vice-Gods, viſibly acting in the place of God towards their people. Summon your Attention, mark again; The Jeſuits Riveted their Lay-Fellow-Plo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ters into this Luciferian Deſign by the receiving of the Sacrament: Thus began the firſt Act of the plot in the abuſe of the Sacrament; and the deſtru<g ref="char:EOLhyphen"/>ction and moſt horrible abuſe of the Sacrament, for the Godhead of which they ſo earneſtly ſtickle, ſhould have ended the laſt act of it. The Godhead of the Sacrament is much defended, but little regarded in caſe of Exigent. Inſert here, I pray: <hi>Henry</hi> the ſeventh Emperour was poiſon'd by a Benedictine Monk, who impoiſon'd an Hoſt, and gave it to him in the receiving of the Sacra<g ref="char:EOLhyphen"/>ment: an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Pope <hi>Victor</hi> the third died at the Altar, having there drunk of a poiſon'd Chalice. Rather than Jeſuits or Monks will miſs of their ends, Popes, Kings, Em<g ref="char:EOLhyphen"/>perours, God and all ſhall go. But, ye learned Maſters of the dark Vault, heark ye once more. Have not ye taught me, that the Syriack Interpreter, Grandchild to<note place="margin">
+                  <hi>Syrus</hi> Interp.</note> to the Apoſtles, in the 14th. Chapter of St. <hi>Mark,</hi> in lieu of the original Words ingrafts words deſerving a<note place="margin">Ve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſio <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>thio<g ref="char:EOLhyphen"/>pica.</hi>
+               </note> fair <hi>Asterisk;</hi> Hoc eſt ipſum corpus meum, <hi>This is my Body it ſelf?</hi> And <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat in the ſix and twenti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th Chapter of St. <hi>Matth.</hi> the Ethiopick likewiſe imbodies: Haec ip<g ref="char:EOLhyphen"/>ſa caro mea, <hi>This is my fleſh it ſelf;</hi> and Hic ipſe ſanguis meus, <hi>This is my Blood it ſelf?</hi> Yea, that in the old Maſs of St. <hi>Iſidore,</hi> when the Prieſt recited, Panem noſtrum quotidianum da nobis hodiè, <hi>Give us this day our daily Bread,</hi> the Quire anſwer'd, Qui tu es Chriſte, <hi>which daily Bread</hi> in the firſt place, <hi>thou O Chriſt art;</hi> as being<note place="margin">Miſſa Sti <hi>Iſi<g ref="char:EOLhyphen"/>dori.</hi>
+               </note> the <hi>first</hi> and moſt noble in Genere panis, <hi>in the Bread<g ref="char:EOLhyphen"/>kind?</hi>
+               <pb n="15" facs="tcp:101374:10"/> And moreover, that hence the rabid and furious Objection of the old Heathens againſt the Chriſtians, took life, intimated by St. <hi>Cyril,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Myſte<g ref="char:EOLhyphen"/>rium<note place="margin">S. <hi>Cyril</hi> ep. ad Eutropium.</note> noſtrum pronuncias: <hi>You call our Myſtery the eat<g ref="char:EOLhyphen"/>ing of man's fleſh,</hi> Will ye blow up now <hi>the Body of Chriſt it ſelf, the Blood of Chriſt it ſelf, our daily Bread, which is Chriſt; the Myſtery</hi> or <hi>Sacrament</hi> wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch St. <hi>Chryſoſtom</hi> calls <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the Trophy of divine Love?</hi> And when I have objected on the behalf of<note place="margin">
+                  <hi>S. Chryoſoſt.</hi> homil. 1. in <hi>Pſalm.</hi> Miſerere mei Deus.</note> the Proteſtants, diſputandi gratiâ, <hi>in a School-Di<g ref="char:EOLhyphen"/>spute,</hi> againſt your Doctrine, from Logick, Acciden<g ref="char:EOLhyphen"/>tis <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe eſt ineſſe; Or, Inhaerentia eſt de Eſſen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ia Acci<g ref="char:EOLhyphen"/>dentis, <hi>An Accident cannot be without a Subject;</hi> Have ye not anſwer'd: In <hi>naturals</hi> it is true, falſe and ſpu<g ref="char:EOLhyphen"/>rious in <hi>ſupernaturals?</hi> If we ſhould require in <hi>matters of Faith,</hi> that the <hi>Object</hi> ſhould come in <hi>Right</hi> and court<g ref="char:EOLhyphen"/>ing <hi>Lines</hi> to the <hi>Senſe,</hi> and be coincident <hi>in every point</hi> with it; we ſhould obſtinately follow the Guidance of that Knowledge in the grand Affai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Reli<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion and of the ſoul, which is common to us with Beaſts, whoſe Heads are bow'd towards the Ground, and that are ut<g ref="char:EOLhyphen"/>terly neſcient of him, who dwells above the Clouds and the Star-ey'd Firmament. Our ſenſes are the <hi>Powers</hi> and <hi>Faculties</hi> of the Beaſt in us. Have ye not proceed<g ref="char:EOLhyphen"/>ed againſt me, explanandi cauſâ, <hi>to explain your Aſſerti<g ref="char:EOLhyphen"/>on?</hi> Shall you and I put limits to an <hi>infinite Power,</hi> able, as Learning of old gr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nted, to <hi>do more than humane underſtanding can underſtand?</hi> The Apoſtle ſignes it in the third Chapter to the <hi>Epheſians,</hi> Deus facere poteſt ſupra quàm petimus, aut intelligimus: <hi>God can do above what we ask or underſtand.</hi> Have ye not urged beyond all this? If Heatheniſh <hi>Art</hi> and <hi>Science</hi> muſt be <hi>ſolemnly</hi> and with ſound of Trumpet, received in <hi>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vealed Truths,</hi> they will diſpirit Scripture; and innocent Divinity will be deplumed of her chief and <hi>Cardinal</hi> Articles. It is a Lo<g ref="char:EOLhyphen"/>gick <hi>Maxime,</hi> accepted into the Mathematicks: Quae ſunt eadem uni tertio, ſunt idem inter ſe. <hi>The Things that are the ſame with a third Thing, are the ſame Thing if examin'd in themſelves and as they face one the other.</hi>
+               <pb n="16" facs="tcp:101374:11"/> This eliminates the Myſterie of the moſt bleſſed Trinity; wherein the Father, Son, and Holy Ghoſt, are the ſame <hi>eſſentially,</hi> but not <hi>p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſonally.</hi> Philoſophy Rules it: Ex nihilo nihil fit: <hi>Of Nothing comes Nothing.</hi> This throws to the Dunghill the Creation of the World. And <hi>Ari<g ref="char:EOLhyphen"/>ſto<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le</hi> confuted, as he thought, <hi>Bereſchith Elohim bara,</hi> the beginning o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Geneſis, In the Beginning God created,</hi> with this his <hi>Nothing-Rule;</hi> when by Chance he ſaw the Pen<g ref="char:EOLhyphen"/>tateuch. Philo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ophy holds forward; Omnis ſubſtantia maximè Rationalis, per<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe ſubſiſtit: <hi>Every Subſtance, the R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tional especially, ſubſiſts of it ſelf.</hi> There the <hi>myſteri<g ref="char:EOLhyphen"/>ous Incarnation</hi> of Chriſt, and the <hi>Hypoſtatical <g ref="char:V">Ʋ</g>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion</hi> are diſown'd, diſcounted, exauctorated, and contemned: the <hi>humane Nature</hi> in Chriſt, <hi>ſubſiſting</hi> by the <hi>ſubſistence</hi> of the <hi>divine Word,</hi> to preſerve Union in the <hi>perſon</hi> of Chriſt God and Man. Logick adminiſters as <hi>principle-ſtrong:</hi> A Privanone ad Habitum non fit Regreſſus: <hi>There is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o Re<g ref="char:EOLhyphen"/>greſſe from the Privati<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n to the Habit:</hi> And the Phyſitians and Chymiſts own it as an <hi>Apheriſme.</hi> Here all the Mi<g ref="char:EOLhyphen"/>racles of Chriſt, and of his Apoſtles and Saints, are anathe<g ref="char:EOLhyphen"/>matiz'd and ſet going. Philoſophy vomits up, Eadem nu<g ref="char:EOLhyphen"/>mero non redeunt, ſed ſpecie: <hi>The ſame numerical Things return not:</hi> Here the Reſurrection is diſcountenanced and diſmiſſed. You ſet a Logical or Philoſophical Rule, quickned by the <hi>Light of Nature,</hi> to ſtrugle and combate with a <hi>re<g ref="char:EOLhyphen"/>vealed Myſtery</hi> clear to <hi>divine Light.</hi> O the divine Apoſtle in his firſt Epiſtle to the <hi>Corinthians,</hi> and the firſt Chapt. Nonne ſtultam fecit Deus ſapientiam hujus Mundi? <hi>Hath n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t God made fooliſh the wiſdom of this world? Infinite power</hi> doth every Thing equally, and with like facility; except that which is offered to the <hi>power,</hi> as St. <hi>Ambroſe</hi> un<g ref="char:EOLhyphen"/>ſheaths it, be Naturae ejus contrarium, <hi>contrary to the</hi>
+               <note place="margin">S. <hi>Am<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r.</hi> An<g ref="char:EOLhyphen"/>not. in cap. 23. Numeror.</note> 
+               <hi>Nature of God,</hi> or to ſome <hi>natural Attribute:</hi> As, Fa<g ref="char:EOLhyphen"/>ctum infectum facere, <hi>to make that a done Thing was not done,</hi> is <hi>contrary</hi> to his <hi>Truth;</hi> to ſin is <hi>contrary</hi> to his <hi>Holi<g ref="char:EOLhyphen"/>neſſe.</hi> Hither I have phras'd it as one of yours. Now I come to my ſelf again. Should this Sacrament, contain<g ref="char:EOLhyphen"/>ing according to you the <hi>Holy of Holies,</hi> and to which all <hi>Arts</hi> and <hi>Sciences</hi> muſt yield and ſubmit themſelves, have
+<pb n="17" facs="tcp:101374:11"/> been blown up in a moment, ye that would have done this, what will ye not do? <hi>Optatus Milevitanus</hi> Re<g ref="char:EOLhyphen"/>cords, that the <hi>Donatiſts</hi> threw this holy Sacrament to<note place="margin">
+                  <hi>Opt. M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>levit.</hi> lib. 2. contra Donatiſtas.</note> the Dogs, and that the Dogs immediately deſtroyed their own M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſters who threw it to them; and that the Teeth which tore the one, tore the other alſo. What ſhall I ſay? Where ſhall I begin? How ſhall I end? O moſt execrable, un<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>athom'd, bottomleſſe—! O that a <hi>Seraphim</hi> from Heaven, would furniſh me with <hi>adequ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te</hi> and fit Words. I muſt deſiſt: I cannot ſpeak large enough to this immenſe and unſpeakable miſchief.</p>
+            <p>Certain <hi>Inferences</hi> pertain to this place; but becauſe I have encountred a Sheet of <hi>Reaſons why Roman-Ca<g ref="char:EOLhyphen"/>tholicks ſhould not be perſecuted;</hi> and my <hi>Inferences</hi> ſtand in <hi>diametrical Oppoſition</hi> to thoſe Reaſons, I ſhall lead up my <hi>Inferences,</hi> and ſet them in <hi>Battal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a</hi> againſt thoſe Reaſons. The Author Commences with an <hi>In<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oduction,</hi> and therein, with an old <hi>Rule</hi> founded in <hi>Nature</hi> and exalted by <hi>Grace. Do ye unto others as ye would that others ſhould do unto you.</hi> This <hi>Rule</hi> is im<g ref="char:EOLhyphen"/>moveable, where the Actions from both ſides run in a Right Line of <hi>Morality.</hi> Moralitas Actûs eſt ejus Conformitas ad legem, <hi>The mortality of an Act is its</hi>
+               <note place="margin">S. <hi>Jo. Damaſc.</hi> lib. 2. de or<g ref="char:EOLhyphen"/>thod fide, c. 29.</note> 
+               <hi>conformity to the Law of God.</hi> Let the Author peruſe Saint <hi>Damaſcen.</hi> In a good Judge perſonating his King on the Bench, there are two <hi>Wills,</hi> an <hi>antecedens Will,</hi> and a <hi>conſequent Will:</hi> By his <hi>antecedent Will</hi> he wills well to a Priſoner at the Barr, even as well as to him<g ref="char:EOLhyphen"/>ſelf, conſidering him, in his <hi>antecedent conſiderati<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> of him, as a Man, and in his <hi>pure ſelf:</hi> but when in the <hi>conſequent con<g ref="char:EOLhyphen"/>ſideration</hi> of him, he conſiders him with theſe <hi>Adjuncts,</hi> that the ſame Man hîc &amp; nùnc is a Thief and homicide, and endangers the publick peace and ſafety, ſecundùm alle<g ref="char:EOLhyphen"/>gata &amp; probata, <hi>according to the Things alledged and proved againſt him,</hi> his <hi>firſt</hi> and <hi>antecede<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t conſideration</hi> of him vaniſhes, and the Will belonging to it becomes a <hi>velleity</hi> and <hi>inefficacious,</hi> and by his <hi>conſequent</hi> and <hi>judiciary Will</hi> he wills him to the Gallows. It would be ridiculous in ſuch a Priſoner, to Retort upon the Judge before his Condemnation, <hi>Do as you would be
+<pb n="18" facs="tcp:101374:12"/> done by;</hi> when as even the Judge himſelf, if reduced to the Priſoner's Condition, would naturally deſire his own preſervation, and plead <hi>not guilty.</hi> The ſame <hi>wills</hi> are in God, <hi>who</hi> according to his <hi>antecedent conſideration</hi> of Mankind, <hi>will have all men to to be ſaved;</hi> many<note place="margin">1 Tim. 2. 4</note> whereof notwithſtanding, according to his <hi>conſequent conſideration</hi> of them, he <hi>reprobates</hi> by an <hi>act of his conſe<g ref="char:EOLhyphen"/>quent and judiciary Will.</hi> Our Law-makers, and our Judges in the Execution of our Laws that are <hi>penal,</hi> act according to the <hi>fruits</hi> of men throughly <hi>known.</hi> And it is rottenly inferred concerning the <hi>Rule of Prudence,</hi> which <hi>teaches when you are encumbred with more inconveniences, to bear with the leſſer.</hi> The Rot<g ref="char:EOLhyphen"/>tenneſſe here will eaſily appear to thoſe who ſhall be pleaſed to reflect upon paſt Things: As, That an Armado was procured from forraign parts by the ſolicitation of En<g ref="char:EOLhyphen"/>gliſh Prieſts, to <hi>deſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oy</hi> their own Country. I have read a Latin Book at <hi>Rome,</hi> written by Father <hi>Parſons</hi> a Jeſuit, wherein it was acknowledged, and juſtified: and I have heard it confeſſed, that many Engliſh Prieſts came with the Armado to direct and aſſiſt the Spaniards: Alſo, That the prime Inventers and plotters of the Gunpowder-Treaſon were Prieſts: Verily, dreadful evils have been performed afterwards, (I tremble in the remembrance of them:) But the Malefactors acted them as the Diſciples of the <hi>Monks</hi> and <hi>Jeſuits,</hi> and as followers of their Doctrines and Ex<g ref="char:EOLhyphen"/>amples. When our Law-makers and Judges conſider Prieſts in their holy Names of <hi>Jeſuits, Monks, Fryers,</hi> they wiſh that ſuch if they will be <hi>Jeſuits, Monks, Fryers,</hi> would, as <hi>Jeſuits</hi> ought to do, imitate Jeſus; as <hi>Monks,</hi> live ſolitarily and ſeparately from <hi>the pomp of the world,</hi> wherein, ſaith St. <hi>Athanaſius,</hi> ſuch are as Fiſhes out of their Element;<note place="margin">S. <hi>Athanaſ.</hi> in vitâ Sti. Ant.</note> and like <hi>Fryers</hi> (that is, <hi>Brethren</hi>) abound in brotherly love: they wiſh to them, even as they wiſh to themſelves in their own condition: But when they conſider them in their wicked and <hi>Retrograde Fruits,</hi> they wiſely Retard and ſup<g ref="char:EOLhyphen"/>preſſe them by <hi>coërcive</hi> and agreeable <hi>Statutes. Salvianus</hi>
+               <note place="margin">
+                  <hi>Salvian:</hi> lib. 4. de Gubern. Dei.</note> brings Honey to this Hiv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: Atrociùs ſub ſancti Nominis profeſſione peccamus: <hi>We ſin more grievouſly, when our
+<pb n="19" facs="tcp:101374:12"/> ſin breaketh out from under a glorious Name, and profeſſion:</hi> Which two contrary conditions, occaſion, that wiſe men conſider ſuch Perſons two contrary wayes.</p>
+            <p>By his firſt Reaſon he <hi>claims the priviledge, that Chriſt's Church gave to the Jewiſh, to be buried with Honour;</hi> and that, as the <hi>Heathens</hi> were, they ſhould be <hi>drawn to Truth by perſwaſion, and not by force.</hi> The firſt Branch of this firſt Reaſon diſcovers the Author to be either a Jeſuit, Monk, Fryer, or Prieſt: Becauſe the bottom or pedeſtal of this Branch is deep-fetch't out of <hi>Thomas Aquinas:</hi> whoſe words are: Sicuti homines mortuos ſervati aliquandiù an<g ref="char:EOLhyphen"/>te<note place="margin">D. <hi>Tho.</hi> p. 2. dae, q. 103. art. 4. Concluſ.</note> ſepulturam contingit: ita legalia (quae ut viva poſt Chriſti paſſionem ſervari ſine peccato mortali non pote<g ref="char:EOLhyphen"/>rant) rectè ut mortua, à paſſione Chriſti ad Evangelii di<g ref="char:EOLhyphen"/>vulgationem ſervata, ut cum honore mortua mater Syna<g ref="char:EOLhyphen"/>goga ſepeliretur: <hi>As it happens that the Bodies of dead men are ſometimes kept before their burial, ſo the Legals (which after the paſſion of Chriſt could not be kept, as alive without a mortal ſin) as dead, from the paſſion of Chriſt to the pro<g ref="char:EOLhyphen"/>mulgation of the Gospel were rightly kept, that the mother Sy<g ref="char:EOLhyphen"/>nagogue being dead, might be buried with honour.</hi> She was truly noble and <hi>honourable</hi> being alive, and therefore being dead was <hi>honourably</hi> and nobly buried. But when under pre<g ref="char:EOLhyphen"/>tence of an <hi>honourable Burial,</hi> a reſtleſſe people deadly prejudicial to the Kingdom wherein they live, ſhall endea<g ref="char:EOLhyphen"/>vour to out-live and build up themſelves upon the Ruines of thoſe among whom they live, it alters the caſe <hi>ſubſtan<g ref="char:EOLhyphen"/>tially</hi> by a <hi>circumſtance.</hi> If ye be not ſuppreſt, as now ye are, by the Laws, but may elbow it at your pleaſure (I ſee it clearly behind the Curtain), more than a hundred thou<g ref="char:EOLhyphen"/>ſand Subjects ſhall be drawn every year from their Alle<g ref="char:EOLhyphen"/>giance to his Majeſty. St. <hi>Hie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om's</hi> complaint would then<note place="margin">S. <hi>Hierom,</hi> lib. a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>verſus Luci<g ref="char:EOLhyphen"/>f<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>anos: <hi>Tom. 2.</hi>
+               </note> quickly be applyed hither with a little Change: Ingemuit totus orbis, &amp; Arrianum ſe eſſe miratus eſt: <hi>The whole world groaned, and wondred that it found it ſelf Arrian up<g ref="char:EOLhyphen"/>on a ſudden.</hi> Pope <hi>Gregory</hi> the 13th. that eſtabliſhed miſ<g ref="char:EOLhyphen"/>ſions into all parts, gave ominiouſly for his Armes a flying Dragon vomiting poyſon. I know what ſublime Adver<g ref="char:EOLhyphen"/>tiſements the predicant Jeſuits give in their Sermons: ſuch
+<pb n="20" facs="tcp:101374:13"/> indeed as little ſuit with dead or <hi>dying</hi> people: For ex<g ref="char:EOLhyphen"/>ample: <hi>The Heavens are alwayes in motion: the Sun takes no reſt: Fire is always in action: The Sea never ſleeps: The ſoul is always buſy in the exerciſe of her Faculties, active Vertues and Spirits: The Heart always panting: the eyes are always active when they are open: Life keeps the pulſe in continual beating; and the breath alwayes a paſſenger coming or going. Theſe are numb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed amongſt the choyſeſt of God's crea<g ref="char:EOLhyphen"/>tu es; and therefore bear more likeneſſe of him in themſelves, than meaner things. Theſe ever work, and ſhall his Holineſs, and we be idle?</hi> For the ſecond Branch: The Church of <hi>England</hi> rightly and righteouſly <hi>draws you to</hi> Allegiance <hi>by Force:</hi> Your different Judgement in matters of Religion is only chaſtiſed in a geatle manner with a <hi>pecuni<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry mulct:</hi> Yea the Prieſts themſelves are not otherwiſe puniſhed, but as unquiet and <hi>known</hi> Seducers of the people from their Allegiance. And whereas St. <hi>Peter,</hi> after your ſtile, the firſt Pope, ſet theſe two ſo neerly together, <hi>Fear God, ho<g ref="char:EOLhyphen"/>nour</hi>
+               <note place="margin">1 Pet. 2. 17</note> 
+               <hi>the King;</hi> the Church of <hi>England</hi> ſolidly concludes, That ye cannot <hi>fear</hi> nor ſerve <hi>God,</hi> except ye <hi>honour the the King:</hi> and that ye cannot ſerve the <hi>Sup<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eam,</hi> except ye <hi>honour</hi> his <hi>Subſtitute.</hi>
+            </p>
+            <p>His ſecond Reaſon pretends, That <hi>the Roman Church muſt not be perſecuted by the old Proteſtant, as confeſſing her to be a true Church, and profeſſing her ſelf to be sp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ung from her loynes: he muſt not defie his Mother for a VVhore.</hi> If the old Proteſtant throughly conſiders your Whoriſh falſe<g ref="char:EOLhyphen"/>hood and proſtitution in the practice and exerciſe of Re<g ref="char:EOLhyphen"/>ligion, truly, That ſhe <hi>confeſſes</hi> you <hi>to</hi> be a true Church, <hi>is more her Goodneſſe than your Deſert.</hi> And the Church of <hi>England</hi> does not <hi>ſpring from the loynes</hi> of the Church of <hi>Rome</hi> as the Church of <hi>Rome</hi> is a Whore, but as by the great providence of God there hath been preſerved a continual ſucceſſion of Prieſthood in her. As the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> came of her, ſo ſhe came from her, and communi<g ref="char:EOLhyphen"/>cates not with her in her Whoriſh conſiderations. When thoſe occur, ſhe looks beyond them, and honourably de<g ref="char:EOLhyphen"/>rives her ſelf from the moſt chaſt and primitive Church. And therefore, the Church of <hi>England</hi> may deſie the Church
+<pb n="21" facs="tcp:101374:13"/> of <hi>Rome for a Whore,</hi> without biuſhing. For brevity-ſake, I ſhall name here but one Whoriſh practice. The practice of ignorant people praying in an unknown Tongue, is Whoriſh. Firſt, what prayer is, St. <hi>John Damaſcen,</hi> the Greek Lombard, hath O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>acled, and the Schools have de<g ref="char:EOLhyphen"/>voutly received, who teach: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.<note place="margin">
+                  <hi>S. J. Damaſc.</hi> lib. 1. de <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ide orthod, cap. 14.</note> 
+               <hi>Prayer is the aſcenſion of the Mind to God.</hi> Prayer being in its <hi>Eſſence, the aſcenſion of the Mind, the Mind aſ<g ref="char:EOLhyphen"/>cerds</hi> in the <hi>prayer as ſuch.</hi> Secondly, Becauſe our Ob<g ref="char:EOLhyphen"/>lation of prayer to God our Maker, ſhould evenly concord with our making and <hi>Talents,</hi> Man worſhipping God, qua<g ref="char:EOLhyphen"/>tenùs Homo eſt animal Rationale, <hi>as Man is a Reaſonable creature.</hi> We therefore being originally enſtamped <hi>reaſo<g ref="char:EOLhyphen"/>nable</hi> and <hi>underſtanding creatures,</hi> agreeably to our Origin <hi>pray with underſtanding.</hi> For which cauſe where the pſal<g ref="char:EOLhyphen"/>miſt exh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rteth, pſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ite Sapien<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>èr, <hi>Sing ye wiſely;</hi> the He<g ref="char:EOLhyphen"/>brew<note place="margin">Pſalm 47. 7</note> Bible ſetleth, <hi>maskil,</hi> in intelligentiâ, <hi>in underſtand<g ref="char:EOLhyphen"/>ing;</hi> and the Sept. prefer <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, intelligentèr, <hi>underſtan<g ref="char:EOLhyphen"/>dingly;</hi> and the Engliſh follows in the path, <hi>ſing ye prayſes with underſtanding.</hi> For the ſame cauſe the Apoſtle rigo<g ref="char:EOLhyphen"/>rouſly exacts of us rationabile obſequium, <hi>Reaſonable ſer<g ref="char:EOLhyphen"/>vice.</hi>
+               <note place="margin">Rom. 12. 1</note> Thirdly, Becauſe prayer unites the Soul with God, and is therefore baptized in the Hebrew Language. <hi>Tephi<g ref="char:EOLhyphen"/>lah,</hi> with a Ray <hi>reflected</hi> from the Childaean <hi>Taphal,</hi> which ſignifies <hi>copulare, to u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ite</hi> or <hi>joyn:</hi> and <hi>like is beſt united with like,</hi> as <hi>Mind</hi> with <hi>Mind, underſtanding</hi> with <hi>underſtand<g ref="char:EOLhyphen"/>ing,</hi> and as our Wills are moſt <hi>perfected</hi> when united with the Will of God: God is Mens Aeterna, <hi>the Eternal Mind.</hi> Yea a loving, faithfull, and zealous prayer unites the Soul with God in the neereſt conformity to the <hi>Beatifical Vi<g ref="char:EOLhyphen"/>ſion:</hi> wherein according to the <hi>Thomiſts, Scotiſts, Bona<g ref="char:EOLhyphen"/>v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſts, the Mind</hi> or Underſtanding takes up and poſſeſ<g ref="char:EOLhyphen"/>ſes the <hi>Founda<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion,</hi> and <hi>fundamentally eſſen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iats</hi> Bleſſedneſſe. Fourthly: Voluntas non agit ex Inco<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nito, <hi>the VVill do<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h doth not ordinarily work</hi> or <hi>act, authorized, ſummoned,</hi> or <hi>en<g ref="char:EOLhyphen"/>te<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tained by an unknown Thing:</hi> and Intellectus praefert Vo<g ref="char:EOLhyphen"/>lunta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ilucernam, <hi>the underſtanding carries a Lamp</hi> or <hi>Lan<g ref="char:EOLhyphen"/>tho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n before the VVill:</hi> and <hi>the VVill</hi> is <hi>preportionably</hi> en<g ref="char:EOLhyphen"/>fl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d as the <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding</hi> gives evidence Fifthly, Be<g ref="char:EOLhyphen"/>cauſe
+<pb n="22" facs="tcp:101374:14"/> in a <hi>Regulated</hi> prayer the Soul is <hi>hol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cauſted;</hi> all be<g ref="char:EOLhyphen"/>ing offered to God: and if all, chiefly our chief and <hi>firſt Facul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y,</hi> our <hi>underſtanding:</hi> of the which, <hi>Aquinas;</hi> Cùm<note place="margin">D. <hi>Tho.</hi> p. 1. q. 12. art. 1. in Concluſ.</note> ultima hominis Beatitudo in altiſſimâ ejus operatione con<g ref="char:EOLhyphen"/>ſiſtat: <hi>VVhereas the laſt bleſſedneſſe of Man conſiſts in his highest operation.</hi> Sixthly and laſtly: Becauſe where the prayer is not underſtood, the Words, as compared to the <hi>underſtanding</hi> of him that prayeth, fall off into vain, and the Senſe with them, and both are fruitleſſe; and to offer ſuch vain Ciphers unto God, or ſuch a ſhell fruitleſſe of the proper Kernel, is a part of niggardize, <hi>heterogeneous</hi> even from the firſt adventures of Worſhip, in the ancient and <hi>typical Sacrifices:</hi> wherein God required the fineſt flower, the Firſt-fruits, the fatteſt Beaſts, the choiſeſt Birds. In Conſideration of this Whoriſh practice, and many others, <hi>Rome I defie thee for a VVhore.</hi>
+            </p>
+            <p>His third Reaſon contends for Liberty, in regard the <hi>Proteſtant acknowledges, that the</hi> Roman <hi>profeſſeth all fun<g ref="char:EOLhyphen"/>damental Truth, and as ſo doing, is capable of eternal feli<g ref="char:EOLhyphen"/>city, which is our laſt End, and wherein all ſaved perſons ſhall enjoy everlaſting Friendſhip.</hi> The quarrel of the Proteſtants againſt you, upon which perſecution is grounded, is created and heighthen'd from your Doctrines leading to Treaſon, and from the long experience which they have had of your turbulent and indefatigable Spirits. When a Thing done was enſpirited and enthuſiaſm'd by Doctrine, it is honeſtly imputed to the Teachers and Authors of the Doctrine. True Chriſtians are principled in a particular abomination of Murther, becauſe their moſt beloved Lord was murther<g ref="char:EOLhyphen"/>ed; and they are themſelves ready, not to murther others, but to be murthered as their dear Lord was: and conſider men, though Heathens, not only as men, but as the Images of God whom they adore. Therefore they juſtly ſuppreſs as far as they can, the children of curſed <hi>Cain.</hi> How can a perſon be tolerated in a well-temper'd Nation, who takes it upon a religious account, that poſt latam Bullam Ex<g ref="char:EOLhyphen"/>communication is à Domino Papâ, <hi>after the Bull of Ex<g ref="char:EOLhyphen"/>communication is publiſhed by his Lord the Pope,</hi> he may kill the perſon excommunicated whoſoever he be; that in the
+<pb n="23" facs="tcp:101374:14"/> caſe of unjuſt Scandal, he may kill the Accuſers, the Witneſſes, yea the Judge himſelf; that if he hath defiled his Body with a Woman, and ſhe give ſignes of a willing<g ref="char:EOLhyphen"/>neſſe to divulge it, he may kill her; that if any one ſhall threaten to reveal the ſecret ſins of a Community, he may be killed: (this part of <hi>Eſcobar</hi> the Engliſh Monks now in <hi>London,</hi> practiſed againſt me in the <hi>Baſtille</hi> at <hi>Paris;</hi> they endeavoured to kill me, both by poyſon and otherwiſe; and fathered the Reaſons upon a Cauſe, the contrary of which was moſt true; let them now ſtand forth and clear themſelves:) that he may, though the profeſſed Servant of a buffeted Lord, to prevent a blow or buffet, or the Lye being given him, kill a man; that a Woman may procure abortion. The popiſh Caſuiſts, <hi>Eſcobar, L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſius, Zanchez, Diana, Reginaldus, Hurtado de Mendora, Bauny,</hi> are hea<g ref="char:EOLhyphen"/>vy-laden with ſuch fruits. Are not the maintainers of theſe Doctrines, <hi>kill, kill,</hi> and nothing but <hi>kill,</hi> unſuffer<g ref="char:EOLhyphen"/>able<note place="margin">
+                  <hi>Coac.</hi> Conſtan<g ref="char:EOLhyphen"/>tienſe Seſſ. 13. ſub Martino 5.</note> amongſt pious Chriſtians? What the Council of <hi>Con<g ref="char:EOLhyphen"/>ſtance</hi> defined in defiance and hatred of <hi>Wicklef,</hi> is evident; and in what <hi>circumſtances</hi> the Jeſuits of <hi>Paris</hi> being terri<g ref="char:EOLhyphen"/>fied by the Pariſian Parliament, renounced <hi>Mariana,</hi> I am aſſured. No Jeſuit ſets forth a Book, but firſt approved by three Jeſuits whom his Provincial names: neither can they act any matter of great conſequence, as the Gun<g ref="char:EOLhyphen"/>powder-Treaſon was, without the knowledge of the Pope, to whom they are obliged by a particular Vow of Obedi<g ref="char:EOLhyphen"/>ence. In the laſt place, let me tell you, you are highly beholding to the Proteſtants, that they give no <hi>definitive Sentence</hi> againſt you in the buſineſſe of your Salvation: You are not affected with like Civility towards them, when you damn them for Hereticks, and frequently cite againſt them, firſt, St. <hi>Cyprian,</hi> pronouncing, Habere jàm non<note place="margin">S. <hi>Cypr.</hi> lib. de Simplicitate Praelatorum. <hi>Concil.</hi> Latera<g ref="char:EOLhyphen"/>nenſe ſab In<g ref="char:EOLhyphen"/>nocentio 3. cap. 1.</note> poteſt Dominum Patrem, qui Eccleſiam non habet Ma<g ref="char:EOLhyphen"/>trem, <hi>He cannot have God for his Father, who hath not the Church for his Mother;</hi> and afterwards the Council of <hi>Lateran,</hi> Una eſt Fidelium Univerſalis Eccleſia, extra quam nemo ſalvatur, <hi>There is one univerſal Church of the Faithful, out of which no perſon is ſaved:</hi> and you under<g ref="char:EOLhyphen"/>ſtand by the <hi>Church,</hi> yea by <hi>the univerſal Church,</hi> the
+<pb n="24" facs="tcp:101374:15"/> Church of <hi>Rome:</hi> and when you argue againſt them as fol<g ref="char:EOLhyphen"/>loweth; Shall we give away <hi>Salvation</hi> (a moſt holy Thing) to perſons deſtitute of <hi>habitual Grace?</hi> Or, is <hi>habitual Grace</hi> given out of the true Church of God, united in <hi>one Lord, one Faith,</hi> except <hi>in the vertue of the Church,</hi> as in the baptizing of Infants or others amongſt Hereticks or Infidels? Then to be of the Church or not of the Church, is of the ſame compoſure, fabrick, mineral, and mettal: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Uno Abſurdo dato vel conceſſo,—, <hi>If we grant or ſign a paſſe to one Abſurdity;</hi> Schollars know the <hi>Cataſtrophy,</hi> and what fol<g ref="char:EOLhyphen"/>lows by <hi>neceſſary Concatenation.</hi> This Anſwer evacuats al<g ref="char:EOLhyphen"/>ſo his fourth and fifth Reaſons.</p>
+            <p>In his ſixth Reaſon he runs wide of his matter, and there is a palpable <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Tranſition to a diffe<g ref="char:EOLhyphen"/>rent kind of Things from the Thing in queſtion.</hi> That the <hi>Duke of</hi> Saxony <hi>with his</hi> Lutherans, and the <hi>Emperour, Head of the Papiſts in</hi> Germany, <hi>better agree, than either of them with</hi> Calviniſts, is not our Buſineſſe, becauſe they are branched into ſeveral Governments, whereas the Prote<g ref="char:EOLhyphen"/>ſtants and Papiſts are here incorporated under one Prince. And his Inſtance in <hi>Hugonotes,</hi> is alſo abſurd and abſonous; the <hi>Hugonotes of France</hi> being <hi>Calviniſts,</hi> and the Agree<g ref="char:EOLhyphen"/>ment being there ſinewed, becauſe the Kings of <hi>France</hi> have experienced the <hi>Hugonotes</hi> to be better Subjects than their own Popiſh-ones, Marſhal <hi>Turin,</hi> General of the French King's Horſe, is a moſt Honourable Example. When we break our limits that ſhould bound our Diſcourſe, it ſignifies we have almoſt done all within our Bounds that<note place="margin">Gen. 3. 1.</note> we can do. When the Text, ſayes, <hi>Now the Serpent was more ſubtil: Aquila</hi> deſcends to the Root, and affords, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>more pragmatical, more over-acting;</hi> and <hi>Pla<g ref="char:EOLhyphen"/>to's</hi>
+               <note place="margin">
+                  <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>la: Plato</hi> in Menexeno. 2 Cor. 11. 3.</note> word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, is uſed by the Apoſtle, and ſignifies <hi>Craft that treads all ways, and tryes all works to do miſchief.</hi> Note with me, that here in the beginning of <hi>Geneſis,</hi> the firſt Book of holy Scripture, the <hi>Serpent</hi> into which the Devil ent<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, hath his Name à Serpendo, <hi>from creeping;</hi> he was but a <hi>Creeper</hi> when he firſt began to plot againſt us; rhis being the firſt mention of the Devil in Scripture: Now the <hi>Ser<g ref="char:EOLhyphen"/>pent</hi>
+               <pb n="25" facs="tcp:101374:15"/> is in the length of Time grown into a <hi>Dragon,</hi> and he grew apace after the Monks and Jeſuits came into the World; ſuch we find him in the laſt Book of Scripture the Revelation, <hi>Michael and his Angels fought against the Dra<g ref="char:EOLhyphen"/>gon.</hi>
+               <note place="margin">Rev<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. 12. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> The Tayl of which <hi>Dragon,</hi> is now in <hi>England,</hi> in C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<g ref="char:EOLhyphen"/>culum retorta, <hi>where it lyes in a circle round about us. St. E<g ref="char:EOLhyphen"/>piphanius</hi> teaches, <hi>That the Devil is called in Scripture, by</hi>
+               <note place="margin">
+                  <hi>S. E<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ph.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in E<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> 
+               <hi>the Name of</hi> a Serpent; <hi>becauſe the Serpent is</hi> omnium A<g ref="char:EOLhyphen"/>nimantium <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the most winding and turning of all living creatures; and that he winds himſelf into circles and knots, and hath nothing of right and ſtraight, or of innocent can<g ref="char:EOLhyphen"/>dour.</hi> He is called by <hi>Theodoret,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>altogether wick<g ref="char:EOLhyphen"/>ed.</hi>
+               <note place="margin">
+                  <hi>Theodoret.</hi> lib. 1. Hiſt. cap. 2.</note> Your out-walkings, <hi>windings,</hi> and inſinuations, are now, the Devil being grown to a <hi>Dragon,</hi> moſt dangerous. I could ſpeak to the ſeventh Reaſon, but it concerns <hi>Rag<g ref="char:EOLhyphen"/>gione di Stato, Reaſons of State,</hi> which are above me.</p>
+            <p>His eighth Reaſon preſſes a Belief upon us; <hi>That the</hi> Roman-Catholick <hi>is an enemy to Innovation, and propitious to Monarchy, and that his Faith leads him to a ſtrict obedience.</hi> Theſe things are gloriouſly ſaid; but as St. <hi>Justine</hi> writeth<note place="margin">S. <hi>Juſt.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Co<g ref="char:EOLhyphen"/>hort. ad Grae<g ref="char:EOLhyphen"/>cos &amp; Genti<g ref="char:EOLhyphen"/>les.</note> to the <hi>Grecians,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Chriſtian Religion is practical, and conſists in works, not in words.</hi> I am half-perſwaded, that here the Author of the Reaſons mocks and ſcoffs at the Romaniſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Aquinas</hi> his Doctrine (reſtored by <hi>Bellarmine</hi>) in his Queſtion, Utrùm Imago Chriſti ſit adoranda adora<g ref="char:EOLhyphen"/>tione Latriae? where he reſolves, <hi>That the Image of Chriſt or a Crucifix may be adored with the adoration of</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>be<g ref="char:EOLhyphen"/>ing a worſhip due to God alone;</hi> is it not an <hi>Innovation?</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>him only ſhalt thou ſerve with the ſervice of</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. (I charge you only with your moſt groſſe <hi>Innova<g ref="char:EOLhyphen"/>tions.</hi>)<note place="margin">D. <hi>Tho.</hi> p. 3. q. 25. a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. 3.</note> If ye be <hi>enemies to Innovation,</hi> why is not this Do<g ref="char:EOLhyphen"/>ctrine thrown out and condemned? Is it not an <hi>Innovation,</hi> of which <hi>Nicolaus Lyra</hi> mournfully complaineth, Aliquan<g ref="char:EOLhyphen"/>dò<note place="margin">Matth. 4 10</note> in Eccleſiâ fit maxima deceptio populi in Miraculis fa<g ref="char:EOLhyphen"/>ctis à Sacerdotibus, vel eis adhaerentibus proptet lucrum: <hi>Sometimes the people are very greatly deluded in the Church,</hi>
+               <note place="margin">
+                  <hi>Nic. Lyr.</hi> Com<g ref="char:EOLhyphen"/>ment in cap. 14. <hi>Dan.</hi> ſe<g ref="char:EOLhyphen"/>cundùm Edit. Vulgat.</note> 
+               <hi>by forged Miracles: the Prieſts or their Adherents forging them for gain?</hi> Is it not an other <hi>Innovation,</hi> of which irrefra<g ref="char:EOLhyphen"/>gable
+<pb n="26" facs="tcp:101374:16"/> 
+               <hi>Alexander Hales</hi> treateth in ſad terms: In Sacra<g ref="char:EOLhyphen"/>mento<note place="margin">
+                  <hi>Alex. Halenſ.</hi> part 4. quaeſt. 53. Memb 4. Art. 3. Solut. 2.</note> apparet Caro, interdùm humanâ procuratione, in<g ref="char:EOLhyphen"/>terdùm operatione Diabolicâ: <hi>Fleſh appears in the Sacra<g ref="char:EOLhyphen"/>ment ſometimes by humane procuration, and ſometimes by Diabolical <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>perati<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>?</hi> I could name a thouſand of theſe. When you urge, <hi>That you are pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ious to Monarchy,</hi> the word <hi>pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pitious</hi> is ill-plac'd. <hi>Propitiouſneſſe</hi> is of a Superiour to an In<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eriour, as Oratio eſt Inferio is, <hi>Prayer is of an In<g ref="char:EOLhyphen"/>feri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur to a Superiour;</hi> Deus, eſto propitius, cryes the Pub<g ref="char:EOLhyphen"/>lican, <hi>God be proptious to me a ſinner. Mona<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chs</hi> and <hi>Mo<g ref="char:EOLhyphen"/>narchy</hi> are very much engaged to you that you are <hi>propiti<g ref="char:EOLhyphen"/>ous</hi> to them. In good ſooth, you honour <hi>Monarchy</hi> in or<g ref="char:EOLhyphen"/>der to your Pope and his Supporters, as appears by theſe your Arguments; St. <hi>Thomas</hi> his <hi>Ground</hi> is irreſiſtible: Deus omnibus providet ſecundùm quod competit eorum naturae: <hi>God provides for all things agreeably to their natures:</hi>
+               <note place="margin">D. <hi>Tho.</hi> p. 1. q. 1. art. 9. in <hi>Corp.</hi>
+               </note> The <hi>Church m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>litant</hi> is <hi>partly viſible,</hi> and <hi>inviſible partly; Viſible</hi> in reſpect of our perſons and Bodies, and in regard of our Souls <hi>inviſible:</hi> Why then as ſhe hath a <hi>Head in<g ref="char:EOLhyphen"/>viſible,</hi> ought ſhe not to have likewiſe a <hi>viſible Head homo<g ref="char:EOLhyphen"/>geneous</hi> with her <hi>viſible condition?</hi> And whereas according to Heaven-born Divinity, Praedeſtinatio eſt pars nobiliſſi<g ref="char:EOLhyphen"/>ſima divinae providentiae. <hi>Predeſtinat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on is the moſt noble p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rt of divine providence,</hi> excellently dealing and diſpoſing con<g ref="char:EOLhyphen"/>cerning the laſt and <hi>ul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>imate end</hi> of God's people; If <hi>Mo<g ref="char:EOLhyphen"/>narchy</hi> be the Government of Heaven, and alſo the ſecu<g ref="char:EOLhyphen"/>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt and moſt peace-preſerving <hi>Form</hi> upon Earth, why ſhould it be diſanull'd in, and abrogated from the Church, which is the moſt noble and moſt excellent <hi>Convocation,</hi> conjunction, and ſociety of people upon Earth, and the ſociety without the Steerige of which we cannot arrive at our <hi>laſt End?</hi> The <hi>Ground-Axioms</hi> are alſo moſt noble: The one is manſion'd within the Territories of Philoſophy, Quod ineſt nobiliori, nobilius eſt, <hi>That which is in the more noble, is the more noble:</hi> this being verified alſo in <hi>Ariſto<g ref="char:EOLhyphen"/>cracy</hi> and <hi>Democracy</hi> aequo librili, aequâ ſimbellae ſtate â per<g ref="char:EOLhyphen"/>penſis, <hi>weigh'd juſtly together:</hi> The other ſhines tan<g ref="char:EOLhyphen"/>quam denſior pars ſui Orbis, <hi>like a Star,</hi> in St. <hi>Justin,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <note place="margin">S. <hi>Juſt.</hi> Cohort. ad Graecos.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Monarchy, as ſuch,
+<pb n="27" facs="tcp:101374:16"/> is diſcord-free.</hi> Here ends your Diſcourſe. But how long have you honour'd <hi>Monarchy</hi> in order to your own Prin<g ref="char:EOLhyphen"/>ces? Shall we date the time from the beginning of the Reign of Queen <hi>Elizabeth,</hi> or from the Spaniſh Fleet <hi>in<g ref="char:EOLhyphen"/>cluſivè,</hi> or from the Gunpowder-Treaſon? That many of you have been <hi>actually</hi> and externally loyal to his Majeſty in his Troubles, I joyfully confeſſe: but whether this was done in Senſu Compoſito, becauſe your Intereſt was <hi>ob<g ref="char:EOLhyphen"/>jectively connexed</hi> with his Majeſtie's Right, or in Senſu di<g ref="char:EOLhyphen"/>viſo, for pure love of God and the King, examine your Hearts and Conſciences: This <hi>objective preciſion,</hi> this <hi>di<g ref="char:EOLhyphen"/>vine Alchymie</hi> is not the work of every Day; I was in the company of four Engliſh Monks here, on that mournfull Day wherein the beſt of all Chriſtian Kings then living, was moſt barbarouſly murthered; and they all ſpake of him underfoot and contemptibly. St. <hi>Auſtin</hi> hath taught me:<note place="margin">S. <hi>Aug.</hi> Homil. 38.</note> Qui amicum propter commodum quodlibe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> amat, non a<g ref="char:EOLhyphen"/>micum convincitur am<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re, ſed commodum: <hi>He that loves his friend for the profit he reaps by him, is convinced, not to love his friend but the profit.</hi> For the laſt Clauſe, concern<g ref="char:EOLhyphen"/>ing your <hi>Faith,</hi> look back upon what is already cleared.</p>
+            <p>His ninth Reaſon preſents an Anſwer to the <hi>Objection, That the</hi> Roman-Catholick <hi>holds poſitions inconſiſtent with good Government, either in Church or State.</hi> But the Author ſo behaves himſelf in his Anſwer, that if I durſt looſen my Soul a little, I would contemn him, yea deſiſt from anato<g ref="char:EOLhyphen"/>mizing further into his Reaſons. He anſwers as no Man of his Fox-fur, but himſelf, would anſwer: And therefore this Anſwer, may happily gain ſome favour for him, yet cannot prevail for others. He defears all the <hi>Councils,</hi> which, if <hi>general,</hi> are univerſally judged by popiſh Recu<g ref="char:EOLhyphen"/>ſants <hi>infallible.</hi> Although this one Prieſt may be <hi>White,</hi> all the reſt all black. Whoſoever he be, he is as St. <hi>Bernard</hi>
+               <note place="margin">S. <hi>Bern.</hi> ep. 249. ad Ber<g ref="char:EOLhyphen"/>nardum Prio<g ref="char:EOLhyphen"/>rem. Sept. in cap. 13. <hi>Iſ.</hi>
+               </note> ſhapes him, quaedam Chimaera ſui ſaeculi, <hi>a certain Chimaera of his Age,</hi> or a kind of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the Septuagint<g ref="char:punc">▪</g> half <hi>Romes</hi> and half <hi>Englands;</hi> and puts me in mind of the Arch-biſhop <hi>Petrus Tenorius,</hi> who after a long Diſputati<g ref="char:EOLhyphen"/>on, equally bandied concerning the Salvation of <hi>Solomon,</hi> pictured him half in Heaven and half in Hell. His
+<pb n="28" facs="tcp:101374:17"/> tenth Reaſon ſinks with his ninth, as depending upon it.</p>
+            <p>His eleventh Reaſon diſburſes, <hi>That perſecution forceth</hi> Roman-Catholicks <hi>to put themſelves in danger to be made diſloyal and practice diſloyalty; firſt, by carrying news to Em<g ref="char:EOLhyphen"/>baſſadours he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, and ſecondly, by ſending their Children be<g ref="char:EOLhyphen"/>yond the Seas, there to be taught by the Enemies of</hi> England. He that puts himſelf in the <hi>neer danger</hi> of a Sin, ſins. But a man cannot be forced to ſin. All ſin is voluntarily commit<g ref="char:EOLhyphen"/>ted; and voluntas non cogitur, <hi>the will is not forced. Tho<g ref="char:EOLhyphen"/>mas Aquinas</hi> ſets up his Flag for us: Homicida eſt per ſe &amp; <note place="margin">D. <hi>Tho.</hi> p. 2. d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, q 73. art. 8. ad 3.</note> ſufficiens cauſa Corporalis mortis: Spiritua is autem mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tis nullus poteſt eſſe alteri Cauſa per ſe ſufficiens: quia nul<g ref="char:EOLhyphen"/>lus Spiritualitèr moritur, niſi propriâ voluntare peccando: <hi>An Homicide or Murderer is the proper and ſufficient cauſe of the corpor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l death of him whom he kills: but no man can be to another a proper and ſufficient</hi> (ſo <hi>Cajetan</hi> ſenſes the words) <hi>cauſe of spiritual death: becauſe no m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n dies ſpiritually, but by ſinning with his own proper will.</hi> Such News-Carriers and Homebred Intelligencers I have known many. He was a Prieſt and a Fryer, that had long playd the Intelligencer on both ſides, and at length ſolaced himſelf in his mirth at <hi>Bruſſels,</hi> with this remarkable encouragement, <hi>The Pope and Cromwel ſhall pay for all.</hi> And concerning the Chil<g ref="char:EOLhyphen"/>dren of Papiſts, except they may, not be taught only, but alſo prieſted here; <hi>Father Robert Anderton</hi> the Monk, ſta<g ref="char:EOLhyphen"/>tion'd in <hi>Lincolns-Inne</hi> Fields, will carry them abroad; and therefore, the State of <hi>England</hi> hath reaſon to fear, that whereas you have a potent party abroad, and in this regard are more dreadful and dangerous than others, many of your party being our Enemies by your inſtigation, you will, if not ſuppreſt and <hi>overlook't</hi> by all who do <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, return to your old Trade of delving and digging your own Graves. <hi>The voyce of thy Thunder in the Heaven,</hi> or <hi>in the Sphere;</hi>
+               <note place="margin">Pſalm 77. 18</note> the original Word with like affection importing <hi>a Sphere, a Wheel,</hi> and every thing the <hi>motion</hi> of which is <hi>circular:</hi> which moved the vulgar Latin to run parallel with our<note place="margin">Edit. Vulg.</note> ſenſe, Vox Tonitrui tui in rotâ, <hi>The voyce of thy Thunder</hi> (or of Mens Thunder-plots which God permits as far as he pleaſes) <hi>is heard in the motion of the wheel:</hi> And the ſame
+<pb n="29" facs="tcp:101374:17"/> Prophet prayes againſt plotters, <hi>O my God, make them like a wheel,</hi> which continually returns to the ſame place where<note place="margin">Pſalm 83. 13 Pſalm 12. 8</note> it was. For, <hi>The wicked walk on every ſide,</hi> The Vulgar hath, In circuitu impii ambulant, <hi>The wicked walk in a circuit</hi> or <hi>Circle.</hi> Circulus in Mathematicis perfectiſſimus, imperfe<g ref="char:EOLhyphen"/>ctiſſimus in Moralibus: <hi>A Circle is moſt perfect in the Ma<g ref="char:EOLhyphen"/>thematicks, in Morals moſt imperfect.</hi> The marrow-Truth is, The Councils named in your ninth Reaſon, and your Caſuiſts, urge you to <hi>diſl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yaltie,</hi> namely the Council of <hi>Flo<g ref="char:EOLhyphen"/>rence</hi> defining for the Popes Univerſality of <hi>Juriſdiction,</hi> and the <hi>Lateran</hi> Council for his power in Temporalities <hi>indirect<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> called <hi>indirect, directly</hi> to depoſe Princes by their own Subjects.</p>
+            <p>His twelf Reaſon is drawn ab improbabili, <hi>from an im<g ref="char:EOLhyphen"/>probable Thing?</hi> it ſeeming altogether <hi>improbable, That li<g ref="char:EOLhyphen"/>berty granted to Papiſts ſhould destroy the ſetled Religion of</hi> England, <hi>becauſe Proteſtants have the uſe of Scripture in their own Tongue, and amongſt the Papiſts here even the ſer<g ref="char:EOLhyphen"/>vice is private, and the want of Preachers very great.</hi> In<g ref="char:EOLhyphen"/>truth, your lazy Monks are great enemies to Preaching: But, howſoever ye ſcar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it, ye pervert people without end, and without number: Every one of your Emiſſaries is a kind of <hi>
+                  <g ref="char:V">Ʋ</g>lyſſes,</hi> praiſed by <hi>Homer</hi> with this Elogy, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <note place="margin">
+                  <hi>Hom.</hi> in 'O<g ref="char:EOLhyphen"/>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>he knew the Cities, and manners of many people.</hi> If your Hopes be not erected to the perverting of this Nation, and if ye do not ſerve <hi>Baalzebub,</hi> that is, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the God of corrupting Flyes,</hi> why is it written over the Porch of the Engliſh Colledge at St. <hi>Omers</hi> in Golden Letters, Jeſu converte Angliam,, Fiat, Fiat, <hi>Jeſus convert</hi> England, <hi>Amen, Amen?</hi> And why do ye now boaſt every day of <hi>twenty</hi> ſtrange Things which I have received from perſon's of Truſt, and have <hi>in depoſito,</hi> but will not name for fear of poyſoning the people as ye do? Yet thus much: The Head of us, though he be moſt honourably grateful to you for your ſervice upon what Ground ſoever it was per<g ref="char:EOLhyphen"/>formed, yet is not of your Feather. I go not in chaſe of preferment: St. <hi>Hierome</hi> thus puts the laſt ſtamp upon the<note place="margin">S. Hier. ep. ad Paulin.</note> ſoft Heart of <hi>Paulinus,</hi> to whom he writes, Facilè contem<g ref="char:EOLhyphen"/>nit omnia qui ſe ſempèr cogicat eſſe moriturum, <hi>He doth
+<pb n="30" facs="tcp:101374:18"/> eaſily contemn, and with a violent hand throw under him all things, who thinks he ſtands alwayes with one foot in his Grave:</hi> I ſpeak with a deliberate meditation upon the hour of my death and the day of Judgement; when he was in <hi>Germany, Bruſſels, France,</hi> my moſt innocent Neceſſi<g ref="char:EOLhyphen"/>ties carried me to all theſe places, in all which I ſaw the moſt noble Things done by him in the profeſſion and Ex<g ref="char:EOLhyphen"/>altation of Proteſtant Religion that any Princely Soul could act; and particularly in <hi>France</hi> I ſaw a young perſon, and the ſame high-born freed by his moſt zealous Com<g ref="char:EOLhyphen"/>mands from <hi>eminent</hi> and iminent danger of Popery, and all this, in his loweſt ebbs: and when Popiſh Princes highly courted him in order to his Reſtitution. Thoſe people have hearts ſteeped <hi>in the Gaul of bitterneſſe,</hi> yea in the <hi>poyſon of Dragons,</hi> that will not believe the right Sterige of mens hearts, untill the men be open'd, and they ſee their entrals. Away, away, ſcatter no more ſuſpitions and falſe Rumours. I ſhould gladly meet with a Papiſt that can ſpeak Truth of High, or Low. It is truth, which <hi>Tertullian</hi> ſpeaketh of<note place="margin">
+                  <hi>Tert.</hi> in Apo<g ref="char:EOLhyphen"/>loget. cap. 7.</note> lying Fame: Quae nec tunc quidem cùm aliquid veri af<g ref="char:EOLhyphen"/>fert, ſine mendacii vitio eſt, detrahens, adjiciens, demutans de veritate: <hi>which neither then truly when it propoſeth a true Thing, is without the ſcar of a Lye; drawing from, putting to, and changing the truth.</hi> And be a little more humble, and peaceable in your Carriages: the very hopes of a To<g ref="char:EOLhyphen"/>leration had ſo tranſported you, that a Miniſter could ſcarcely paſſe in the ſtreets by your Shops, but reproached and abuſed by you: Yea, I was preſent the other day, when a Jeſuit having <hi>crept into a Houſe,</hi> and ſtanding by a fire, Anſatus <hi>with his arms hook't up to his ſides,</hi> profeſſed againſt the Maſter of it being a Miniſter, <hi>that he had more to do in his houſe than he.</hi> Whither will theſe people drag us, if they be ſuffered? It is my Road, when an inſolent Sect is moſt high and proud, to catch at the very Head of it: I wrote againſt Presbyterians, and Anabaptiſts, when they took their turns at the Helm, and for the <hi>divine Right</hi> of Epiſco<g ref="char:EOLhyphen"/>pacy, when <hi>humane Helps</hi> were depreſſed. I have a Sigh coming, and a Groan after it, that <hi>
+                  <g ref="char:V">Ʋ</g>ſhers</hi> a word or two: <hi>O that unwiſe ewe, which gave ſuck to the forſaken whelps of a
+<pb n="31" facs="tcp:101374:18"/> wolf; that afterwards deſtroyed her &amp; her young, &amp; all the flock!</hi>
+            </p>
+            <p>His <hi>last Reaſon,</hi> he ſays, <hi>is rather a Requeſt than a new Reaſon.</hi> And my Anſwer ſhall be like <hi>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: Our Church-Go<g ref="char:EOLhyphen"/>vernours are deſired to conſider whether a Toleration of Papiſts would not encreaſe their Power:</hi> And I likewiſe m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt humbly deſire them to conſider, whether it would no bring <hi>their P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wer</hi> to the Grave, and there leave it. Secondly: <hi>They are entreated to conſider, whether their first Conſecrators, were themſelves truly conſecrated, that they may be reverenced by Papiſts, according to their Character, and obeyed accordingly:</hi> and I moſt humbly deſire them to conſider, That this is a Deſire in the Ayr, where <hi>Ariſtophanes</hi> his Birds built a Ci<g ref="char:EOLhyphen"/>ty;<note place="margin">
+                  <hi>Aristoph.</hi> in Av<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b.</note> for, the Papiſts believe it not. Thirdly: <hi>Proteſtants are beſeeched to lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k upon them as their Fellow-Souldiers in defence of their Kings:</hi> and I moſt humbly deſire all men to conſider, that it was both our Duties, and requiſite that both we and they ſhould know and keep the Conditions of a <hi>just War:</hi> whereof the firſt is, Auctoritas legitima, <hi>a lawful Authority:</hi> which is, <hi>the Authority of a Prince,</hi> or of <hi>a ſupream Power:</hi> Becauſe <hi>Princes</hi> and <hi>ſupream Powers</hi> have no <hi>common Tribunal,</hi> at which they may a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cuſe other <hi>ſupream Powers</hi> and <hi>Princes:</hi> Secondly, cauſa juſta, <hi>a juſt Cauſe:</hi> which is, The repulſing of notorious and great Injuries: the repulſing of which, is a more <hi>eligible Good,</hi> than the <hi>Good</hi> loſt by the <hi>evil of War,</hi> that the <hi>Prince</hi> may defend the people ſubjected to him, now greatly damnifi<g ref="char:EOLhyphen"/>ed by the Enemy. Thirdly: Intentio bona, <hi>a good Inten<g ref="char:EOLhyphen"/>tion,</hi> the End of War being, ut in pace vivamus, <hi>that we may live in peace.</hi> Fourthly: Modus debitus, <hi>a due man<g ref="char:EOLhyphen"/>ner:</hi>
+               <note place="margin">
+                  <hi>Chriſtoph. Mar<g ref="char:EOLhyphen"/>cellus Orat.</hi> habitâ in Con<g ref="char:EOLhyphen"/>cil. Lateran. ſub Julio 2. Seſſ. 4.</note> which enjoynes the taking off all poſſible care, that the <hi>Innocent</hi> be not endamaged. In this their <hi>Deſire,</hi> it is queſtion'd whether any <hi>Roman-Catholick</hi> hath been falſe to his Majeſty: and I humbly deſire the Proteſtants to conſi<g ref="char:EOLhyphen"/>der, that much may be ſaid in this buſineſſe above what hath already paſſed in the ſtream. I have heard extraor<g ref="char:EOLhyphen"/>dinary Things from a great Stateſman of <hi>France,</hi> and an other of <hi>Italy</hi> in the <hi>Baſtille.</hi> And had not the <hi>two</hi> Filli olei, according to the Hebrew and the Vulgar Latin, <hi>Sons</hi>
+               <note place="margin">Zach. 4. 14.</note> 
+               <hi>of Oyl,</hi> as they may be called out of the Prophet <hi>Zachary,</hi>
+               <pb n="32" facs="tcp:101374:19"/> the one by Land, and the other by Sea, done their Duties, ſtange and prodigious Things had followed. We are, <hi>the God of patience and conſolation</hi> be bleſſed, ſet in joint, and I will not blab abroad my Secret. Anſwerably to <hi>Aquila</hi>
+               <note place="margin">
+                  <hi>Aquil. Theodot.</hi> Sept. Syr. Arab. <hi>Antiochen.</hi> Arab. <hi>Alex<g ref="char:EOLhyphen"/>andr.</hi>
+               </note> and <hi>Theodotion,</hi> they are Filii Splendoris, or Claritatis, <hi>Sons of splendour or Clarity:</hi> The Septuagint, Syriack, and Arabick of <hi>Antioch</hi> deal out, Filii pinguedinis, <hi>Sons of fatneſſe:</hi> The Arabick of <hi>Alexandria,</hi> filii Miſericordiae, <hi>Sons of Mercy, Oyl</hi> being a <hi>Symbol of Mercy.</hi> God Re<g ref="char:EOLhyphen"/>ward them in his <hi>infinite Mercy:</hi> who rewardeth every one <hi>according to his works</hi> and <hi>fruits:</hi> and God preſerve his Majeſty, and grant that as he is ſet above us, ſo he may <hi>walk with God,</hi> and before us by a moſt perfect Ex<g ref="char:EOLhyphen"/>ample.</p>
+            <closer>Amen.</closer>
+            <closer>
+               <hi>Laus Deo Liberatori:</hi> Praiſe be unto God our Deliverer.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:101374:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
